@@ -1,3 +1,11 @@
+[[2025-07-28]]
+
+1. Only generate active subject on sve list pdf
+   ![](https://i.imgur.com/4evdhe9.png)
+2. 
+[[2025-07-25]]
+3. Gradebook ngeblank di teacher portal
+   ![](https://i.imgur.com/EHUgs7U.png)
 
 
 [[2025-07-22]]
