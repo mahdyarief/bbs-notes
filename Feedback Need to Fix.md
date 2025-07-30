@@ -1,10 +1,16 @@
 [[2025-07-30]]
 
-1. BMT Subject di week List double, perlu di tambahkan field BMT 1 & BMT 2, serta filter BMT 1 & 2, serta 
+1. BMT Subject di week List double, perlu di tambahkan field BMT 1 & BMT 2, serta filter BMT 1 & 2, serta filter Term & Week ✅  
    ![](https://i.imgur.com/SFxuSYp.png)
 2. Error when set session , kena forbiden resource, di akun miss lily
    ![](https://i.imgur.com/RqEtxIG.png)
    ![](https://i.imgur.com/S7ghqIE.png)
+3. Urutan by Subject Name then next by Level, then next by Paper. (ASC),
+   ![](https://i.imgur.com/3514VIM.png)
+4. Internal Error saat attach BMT Week (Update relation, 1 Academic Week bisa dipake di banyak Subject BMT)
+   ![](https://i.imgur.com/YU3WmFX.png)
+
+
 
 
 
@@ -19,12 +25,12 @@
 [[2025-07-28]]
 1. Only generate active subject on sve list pdf
    ![](https://i.imgur.com/4evdhe9.png)
-2. Non Academic saat term 3 & term 4 diisi -1, nilai FYAnya tetep di bagi 4, harusnya di bagi 2
+2. Non Academic saat term 3 & term 4 diisi -1, nilai FYAnya tetep di bagi 4, harusnya di bagi 2 ✅  
    ![](https://i.imgur.com/NhtpFFv.png)
    ![](https://i.imgur.com/hEfLZ03.png)
-3. Student saat promote, tidak bisa punya 2 kelas yang sama di tahun ajaran yang sama
+3. Student saat promote, tidak bisa punya 2 kelas yang sama di tahun ajaran yang sama 
 4. Jumlah mudir per kampus per level per kelas per subject (dashboard)
-5. Saat generate report di check, apakah ada di student banding2, kalo tidak ada, tidak di generate. nilai tetep dinilai.
+5. Saat generate report di check, apakah ada di student banding2, kalo tidak ada, tidak di generate. nilai tetep dinilai. ✅  
 6. Buka filter AY untuk discipline overview
    ![](https://i.imgur.com/EqaFIAS.png)
 7. Filter data di SOW dan di academic department files, di teacher portal bocor (maria.rhea.pikp & jonas.austria), harusnya muncul sesuai dengan subject yang diajar dan academic departmentnya
