@@ -64,3 +64,8 @@
 5. Change nationality from indonesia to indonesian
    ![](https://i.imgur.com/eJ43sp8.png)
 6. Next..
+
+## Legacy Issue
+
+1. Student yang statusnya Inactive, tetap muncul di Report & Certificate, dan Transcript Nilai
+2. HOD bisa akses ke teacher portal dan bisa melihat semua subject di bawah academic departmentnnya, impact ke menu Resource
