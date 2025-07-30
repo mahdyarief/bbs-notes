@@ -1,3 +1,16 @@
+[[2025-07-30]]
+
+1. BMT Subject di week List double
+   ![](https://i.imgur.com/SFxuSYp.png)
+
+
+[[2025-07-29]]
+1. Add delete row on SVE LIST, want to delete sve list not used (Remove from button Add Exam Type → Remove this,  membuat user bingung, better ada remove di list depan)
+   ![](https://i.imgur.com/WNvZlGe.png)
+   ![](https://i.imgur.com/A7vfoew.png)
+
+
+
 [[2025-07-28]]
 1. Only generate active subject on sve list pdf
    ![](https://i.imgur.com/4evdhe9.png)
@@ -26,17 +39,17 @@
 
 
 [[2025-07-25]]
-10. Gradebook ngeblank di teacher portal
+1. Gradebook ngeblank di teacher portal ✅  
    ![](https://i.imgur.com/EHUgs7U.png)
    
    
 [[2025-07-22]]
-11. List chapter on last academic year, need to show up  ✅  
-12. Add filter academic year on all chapter, so teacher can duplicate chapter from previous academic year ✅  
+2. List chapter on last academic year, need to show up  ✅  
+3. Add filter academic year on all chapter, so teacher can duplicate chapter from previous academic year ✅  
 	1. Add filter chapter name and teacher name
 	2. ![](https://i.imgur.com/BjQs9jp.png)
-13. RBAC not show for BMT Week list, Manage SVE already check ✅  
+4. RBAC not show for BMT Week list, Manage SVE already check ✅  
    ![](https://i.imgur.com/lQdsQ4c.png)
-14. Change nationality from indonesia to indonesian
+5. Change nationality from indonesia to indonesian
    ![](https://i.imgur.com/eJ43sp8.png)
-15. Next..
+6. Next..
