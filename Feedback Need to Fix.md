@@ -1,6 +1,6 @@
 [[2025-07-30]]
 
-1. BMT Subject di week List double
+1. BMT Subject di week List double, perlu di tambahkan field BMT 1 & BMT 2, serta filter BMT 1 & 2, serta 
    ![](https://i.imgur.com/SFxuSYp.png)
 2. Error when set session , kena forbiden resource, di akun miss lily
    ![](https://i.imgur.com/RqEtxIG.png)
