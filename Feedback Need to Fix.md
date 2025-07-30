@@ -9,6 +9,10 @@
    ![](https://i.imgur.com/3514VIM.png)
 4. Internal Error saat attach BMT Week (Update relation, 1 Academic Week bisa dipake di banyak Subject BMT)
    ![](https://i.imgur.com/YU3WmFX.png)
+5. Udd info di modal saat set BMT Week, dilengkapi dengan [Level], [BMT 1 / 2], [Primary / Secondary / JC]
+   ![](https://i.imgur.com/N0nIA0g.png)
+6. ...
+
 
 
 
