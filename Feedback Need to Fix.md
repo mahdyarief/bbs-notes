@@ -2,6 +2,11 @@
 
 1. BMT Subject di week List double
    ![](https://i.imgur.com/SFxuSYp.png)
+2. Error when set session , kena forbiden resource, di akun miss lily
+   ![](https://i.imgur.com/RqEtxIG.png)
+   ![](https://i.imgur.com/S7ghqIE.png)
+
+
 
 
 [[2025-07-29]]
