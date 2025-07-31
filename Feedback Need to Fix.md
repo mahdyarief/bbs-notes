@@ -1,15 +1,27 @@
+[[2025-07-31]]
+1. [Enhance Feature] General File Sharing, Memunculkan file yang di upload dengan 3 Scope, Subject - Academic Department - General (dapat dilihat oleh semua guru, di semua kampus)
+   ![](https://i.imgur.com/GyWpZIQ.png) 
+
+
 [[2025-07-30]]
 
 1. BMT Subject di week List double, perlu di tambahkan field BMT 1 & BMT 2, serta filter BMT 1 & 2, serta filter Term & Week ✅  
    ![](https://i.imgur.com/SFxuSYp.png)
-2. Error when set session , kena forbiden resource, di akun miss lily
+2. Error when set session , kena forbiden resource, di akun miss lily ✅ ❗ 
    ![](https://i.imgur.com/RqEtxIG.png)
    ![](https://i.imgur.com/S7ghqIE.png)
-3. Urutan by Subject Name then next by Level, then next by Paper. (ASC),
+	1. Set Sessionnya sudah ga forbiden, tapi jam yg di set samaa saat di view lagi gak konsisten 🎯  
+	   https://www.loom.com/share/08c01a65b0264724a2f6916f975add06?sid=06fdc01b-db10-4d63-bb61-5e139a630f95
+	   ![](https://i.imgur.com/HZF2uTc.png) Saat Mau di save --- 
+	   ![](https://i.imgur.com/9mHYoOI.png)
+	   Setelah di Save
+
+
+3. Urutan by Subject Name then next by Level, then next by Paper. (ASC), 🎯  
    ![](https://i.imgur.com/3514VIM.png)
-4. Internal Error saat attach BMT Week (Update relation, 1 Academic Week bisa dipake di banyak Subject BMT)
+4. Internal Error saat attach BMT Week (Update relation, 1 Academic Week bisa dipake di banyak Subject BMT) ✅  
    ![](https://i.imgur.com/YU3WmFX.png)
-5. Udd info di modal saat set BMT Week, dilengkapi dengan [Level], [BMT 1 / 2], [Primary / Secondary / JC]
+5. Udd info di modal saat set BMT Week, dilengkapi dengan [Level], [Exam_Type], [Primary / Secondary / JC] ✅  
    ![](https://i.imgur.com/N0nIA0g.png)
 6. ...
 
@@ -20,14 +32,13 @@
 
 
 [[2025-07-29]]
-1. Add delete row on SVE LIST, want to delete sve list not used (Remove from button Add Exam Type → Remove this,  membuat user bingung, better ada remove di list depan)
-   ![](https://i.imgur.com/WNvZlGe.png)
+1. Add delete row on SVE LIST, want to delete sve list not used (Remove from button Add Exam Type → Remove this,  membuat user bingung, better ada remove di list depan) ✅  ![](https://i.imgur.com/WNvZlGe.png)
    ![](https://i.imgur.com/A7vfoew.png)
 
 
 
-[[2025-07-28]]
-1. Only generate active subject on sve list pdf
+[[2025-07-28]] ❗ 
+1. Only generate active subject on sve list pdf [Invalid, Set Subject to Inactive, it will not Show] ✅  
    ![](https://i.imgur.com/4evdhe9.png)
 2. Non Academic saat term 3 & term 4 diisi -1, nilai FYAnya tetep di bagi 4, harusnya di bagi 2 ✅  
    ![](https://i.imgur.com/NhtpFFv.png)
@@ -37,7 +48,7 @@
 5. Saat generate report di check, apakah ada di student banding2, kalo tidak ada, tidak di generate. nilai tetep dinilai. ✅  
 6. Buka filter AY untuk discipline overview
    ![](https://i.imgur.com/EqaFIAS.png)
-7. Filter data di SOW dan di academic department files, di teacher portal bocor (maria.rhea.pikp & jonas.austria), harusnya muncul sesuai dengan subject yang diajar dan academic departmentnya
+7. Filter data di SOW dan di academic department files, di teacher portal bocor (maria.rhea.pikp & jonas.austria), harusnya muncul sesuai dengan subject yang diajar dan academic departmentnya 🎯  
    ![](https://i.imgur.com/yeXLOP6.png)
 8. [ENRICHMENT FEATURE] CCA In year, ada update entity & apply cca registration time per campus beda, tidak cukup di handling dengan RBAC, 
 	1. Saat waktu registration bisa join, saat waktu habis join di disable
@@ -49,25 +60,22 @@
    ![](https://i.imgur.com/wSgNfsL.png)
    ![](https://i.imgur.com/ruGS8Pw.png)
    ![](https://i.imgur.com/UllooZo.png)
-9. 
-10. 
 
 
-[[2025-07-25]]
+[[2025-07-25]] ✅  
 1. Gradebook ngeblank di teacher portal ✅  
    ![](https://i.imgur.com/EHUgs7U.png)
    
    
-[[2025-07-22]]
+[[2025-07-22]] ❗ 
 2. List chapter on last academic year, need to show up  ✅  
 3. Add filter academic year on all chapter, so teacher can duplicate chapter from previous academic year ✅  
-	1. Add filter chapter name and teacher name
-	2. ![](https://i.imgur.com/BjQs9jp.png)
+	1. Add filter chapter name and teacher name ✅  
+	   ![](https://i.imgur.com/BjQs9jp.png)
 4. RBAC not show for BMT Week list, Manage SVE already check ✅  
    ![](https://i.imgur.com/lQdsQ4c.png)
-5. Change nationality from indonesia to indonesian
+5. Change nationality from indonesia to indonesian 🎯  
    ![](https://i.imgur.com/eJ43sp8.png)
-6. Next..
 
 ## Legacy Issue
 
