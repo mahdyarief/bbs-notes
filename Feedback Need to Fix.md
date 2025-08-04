@@ -1,12 +1,15 @@
 [[2025-08-04]]
-1. SubjectName only
+1. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE_T1W8_Ch2Factor-and-Multiples** & add BMT 1 / 2 di title
+   ![](https://i.imgur.com/zOP3UtM.png)
+
+2. SubjectName only
    ![](https://i.imgur.com/Y99tDDc.png)
-2. Penulisan Exam Type di Cover Page CAPS semua ❗ 
+3. Penulisan Exam Type di Cover Page CAPS semua ❗ 
    ![](https://i.imgur.com/T9VgXUD.png)
-3. Position when assign not aware with AY
+4. Position when assign not aware with AY
    ![](https://i.imgur.com/EBfuAX5.png)
    ![](https://i.imgur.com/Pg6HQCE.png)
-4. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
+5. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
    Titlenya Setter-Vetter List (di BMT No Expert), Column Title, Expertnya di delete ❗ 
    ![](https://i.imgur.com/oTC0v3e.png)referensi
    ![](https://i.imgur.com/YVs2Hww.png)
@@ -36,7 +39,7 @@
 	   Setelah di Save
 
 
-3. Urutan by Subject Name then next by Level, then next by Paper. (ASC), 🎯  
+3. Urutan by Subject Name then next by Level, then next by Paper. (ASC), ✅   
    ![](https://i.imgur.com/3514VIM.png)
 4. Internal Error saat attach BMT Week (Update relation, 1 Academic Week bisa dipake di banyak Subject BMT) ✅  
    ![](https://i.imgur.com/YU3WmFX.png)
@@ -65,9 +68,9 @@
 3. Student saat promote, tidak bisa punya 2 kelas yang sama di tahun ajaran yang sama 
 4. Jumlah mudir per kampus per level per kelas per subject (dashboard)
 5. Saat generate report di check, apakah ada di student banding2, kalo tidak ada, tidak di generate. nilai tetep dinilai. ✅  
-6. Buka filter AY untuk discipline overview
+6. Buka filter AY untuk discipline overview ✅  
    ![](https://i.imgur.com/EqaFIAS.png)
-7. Filter data di SOW dan di academic department files, di teacher portal bocor (maria.rhea.pikp & jonas.austria), harusnya muncul sesuai dengan subject yang diajar dan academic departmentnya 🎯  
+7. Filter data di SOW dan di academic department files, di teacher portal bocor (maria.rhea.pikp & jonas.austria), harusnya muncul sesuai dengan subject yang diajar dan academic departmentnya ✅    
    ![](https://i.imgur.com/yeXLOP6.png)
 8. [ENRICHMENT FEATURE] CCA In year, ada update entity & apply cca registration time per campus beda, tidak cukup di handling dengan RBAC, 
 	1. Saat waktu registration bisa join, saat waktu habis join di disable
