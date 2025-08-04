@@ -1,15 +1,17 @@
 [[2025-08-04]]
-1. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE_T1W8_Ch2Factor-and-Multiples** & add BMT 1 / 2 di title
+1. Can set week to null / no assign week
+   ![](https://i.imgur.com/nvQxdPW.png)
+2. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE & add BMT 1 / 2 di title
    ![](https://i.imgur.com/zOP3UtM.png)
 
-2. SubjectName only
+3. SubjectName only
    ![](https://i.imgur.com/Y99tDDc.png)
-3. Penulisan Exam Type di Cover Page CAPS semua ❗ 
+4. Penulisan Exam Type di Cover Page CAPS semua ❗ 
    ![](https://i.imgur.com/T9VgXUD.png)
-4. Position when assign not aware with AY
+5. Position when assign not aware with AY
    ![](https://i.imgur.com/EBfuAX5.png)
    ![](https://i.imgur.com/Pg6HQCE.png)
-5. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
+6. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
    Titlenya Setter-Vetter List (di BMT No Expert), Column Title, Expertnya di delete ❗ 
    ![](https://i.imgur.com/oTC0v3e.png)referensi
    ![](https://i.imgur.com/YVs2Hww.png)
