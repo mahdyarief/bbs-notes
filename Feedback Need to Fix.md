@@ -1,10 +1,12 @@
 [[2025-08-04]]
-1. Penulisan Exam Type di Cover Page CAPS semua ❗ 
+1. SubjectName only
+   ![](https://i.imgur.com/Y99tDDc.png)
+2. Penulisan Exam Type di Cover Page CAPS semua ❗ 
    ![](https://i.imgur.com/T9VgXUD.png)
-2. Position when assign not aware with AY
+3. Position when assign not aware with AY
    ![](https://i.imgur.com/EBfuAX5.png)
    ![](https://i.imgur.com/Pg6HQCE.png)
-3. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
+4. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
    Titlenya Setter-Vetter List (di BMT No Expert), Column Title, Expertnya di delete ❗ 
    ![](https://i.imgur.com/oTC0v3e.png)referensi
    ![](https://i.imgur.com/YVs2Hww.png)
