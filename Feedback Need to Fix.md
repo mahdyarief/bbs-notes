@@ -1,6 +1,18 @@
+[[2025-08-04]]
+1. Penulisan Exam Type di Cover Page CAPS semua
+   ![](https://i.imgur.com/T9VgXUD.png)
+2. Position when assign not aware with AY
+   ![](https://i.imgur.com/EBfuAX5.png)
+   ![](https://i.imgur.com/Pg6HQCE.png)
+
+
+
+
 [[2025-07-31]]
 1. [Enhance Feature] General File Sharing, Memunculkan file yang di upload dengan 3 Scope, Subject - Academic Department - General (dapat dilihat oleh semua guru, di semua kampus)
    ![](https://i.imgur.com/GyWpZIQ.png) 
+2. Take out assign expert on BMT
+   ![](https://i.imgur.com/GDCiJbf.png)
 
 
 [[2025-07-30]]
