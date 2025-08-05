@@ -1,17 +1,30 @@
+[[2025-08-05]]
+1. [Enhance Feature] make enroll all on banding enroll, student assign to banding teacher
+   ![](https://i.imgur.com/Vy5AGtd.png)
+2. Detail when assign time table, add level
+   ![](https://i.imgur.com/K9hzu2b.png)
+
+
+
 [[2025-08-04]]
-1. Can set week to null / no assign week
+1. Grade tahun lewat masih bisa diedit
+   ![](https://i.imgur.com/GffXzzs.png)
+2. Exam Time Table
+   ![](https://i.imgur.com/WYBzPDV.png)
+   ![](https://i.imgur.com/eO7QsEx.png)
+3. Can set week to null / no assign week ✅  
    ![](https://i.imgur.com/nvQxdPW.png)
-2. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE & add BMT 1 / 2 di title
+4. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE & add BMT 1 / 2 di title ✅  
    ![](https://i.imgur.com/zOP3UtM.png)
 
-3. SubjectName only
+5. SubjectName only ✅  
    ![](https://i.imgur.com/Y99tDDc.png)
-4. Penulisan Exam Type di Cover Page CAPS semua ❗ 
+6. Penulisan Exam Type di Cover Page CAPS semua ✅   
    ![](https://i.imgur.com/T9VgXUD.png)
-5. Position when assign not aware with AY
+7. Position when assign not aware with AY ❗ 
    ![](https://i.imgur.com/EBfuAX5.png)
    ![](https://i.imgur.com/Pg6HQCE.png)
-6. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
+8. Download SVE List untuk BMT add field subject, level, Setter, Vetter, Week, Topic.
    Titlenya Setter-Vetter List (di BMT No Expert), Column Title, Expertnya di delete ❗ 
    ![](https://i.imgur.com/oTC0v3e.png)referensi
    ![](https://i.imgur.com/YVs2Hww.png)
@@ -23,7 +36,7 @@
 [[2025-07-31]]
 1. [Enhance Feature] General File Sharing, Memunculkan file yang di upload dengan 3 Scope, Subject - Academic Department - General (dapat dilihat oleh semua guru, di semua kampus)
    ![](https://i.imgur.com/GyWpZIQ.png) 
-2. Take out assign expert on BMT
+2. Take out assign expert on BMT ✅  
    ![](https://i.imgur.com/GDCiJbf.png)
 
 
@@ -34,7 +47,7 @@
 2. Error when set session , kena forbiden resource, di akun miss lily ✅ ❗ 
    ![](https://i.imgur.com/RqEtxIG.png)
    ![](https://i.imgur.com/S7ghqIE.png)
-	1. Set Sessionnya sudah ga forbiden, tapi jam yg di set samaa saat di view lagi gak konsisten 🎯  
+	1. Set Sessionnya sudah ga forbiden, tapi jam yg di set samaa saat di view lagi gak konsisten ✅  
 	   https://www.loom.com/share/08c01a65b0264724a2f6916f975add06?sid=06fdc01b-db10-4d63-bb61-5e139a630f95
 	   ![](https://i.imgur.com/HZF2uTc.png) Saat Mau di save --- 
 	   ![](https://i.imgur.com/9mHYoOI.png)
