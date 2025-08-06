@@ -1,7 +1,11 @@
+[[2025-08-06]]
+1. Filter student di class in year tidak jalan
+   ![](https://i.imgur.com/2a9SGNc.png)
+
 [[2025-08-05]]
-1. [Enhance Feature] make enroll all on banding enroll, student assign to banding teacher
+2. [Enhance Feature] make enroll all on banding enroll, student assign to banding teacher
    ![](https://i.imgur.com/Vy5AGtd.png)
-2. Detail when assign time table, add level
+3. Detail when assign time table, add level
    ![](https://i.imgur.com/K9hzu2b.png)
 
 
@@ -9,13 +13,17 @@
 [[2025-08-04]]
 1. Grade tahun lewat masih bisa diedit
    ![](https://i.imgur.com/GffXzzs.png)
-2. Exam Time Table
+2. Exam Time Table ✅  
    ![](https://i.imgur.com/WYBzPDV.png)
    ![](https://i.imgur.com/eO7QsEx.png)
+   ![](https://i.imgur.com/zkpKFYQ.png)
+
 3. Can set week to null / no assign week ✅  
    ![](https://i.imgur.com/nvQxdPW.png)
 4. BMT Weeklist download file format: AY_EXAMTYPE-SVE_BMTWeek_BMT Topic, contoh: **2526_BMT1-SVE & add BMT 1 / 2 di title ✅  
    ![](https://i.imgur.com/zOP3UtM.png)
+   add Level di File Name
+   2526 **Primary** FYE Timetable.
 
 5. SubjectName only ✅  
    ![](https://i.imgur.com/Y99tDDc.png)
