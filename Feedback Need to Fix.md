@@ -1,3 +1,21 @@
+[[2025-08-11]]
+1. Take out Paper Name Initial
+   ![](https://i.imgur.com/Cbs4Evn.png)
+   ![](https://i.imgur.com/aiTtYcj.png)
+2. Take out Primary 1 & 2 dari schedule
+   ![](https://i.imgur.com/cEXjnt3.png)
+3. Primary 6 Punya session & notes sendiri
+   ![](https://i.imgur.com/3oE4qaS.png)
+4. Subject Code saja yg d print schedule
+   ![](https://i.imgur.com/TKwgemP.png)
+
+
+5. edit parent error cause duplicate phone number, show error to not make user confuse ✅  
+   ![](https://i.imgur.com/awzbNXn.png)
+6. Sylabus Code not Mandatory ✅  
+   ![](https://i.imgur.com/o0GCDcn.png)
+
+
 [[2025-08-06]]
 1. Filter student di class in year tidak jalan
    ![](https://i.imgur.com/2a9SGNc.png)
