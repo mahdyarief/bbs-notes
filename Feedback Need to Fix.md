@@ -1,35 +1,43 @@
+[[2025-08-18]]
+1. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc.
+   ![](https://i.imgur.com/xWkLoif.png)
+
 [[2025-08-11]]
-1. Take out Paper Name Initial
+Special meeting for enhancement primary function
+2. Add force user change password, for still use default password ✅  
+3. Add otp function if detect change from latest devices ✅  
+[[2025-08-11]]
+4. Take out Paper Name Initial ✅  
    ![](https://i.imgur.com/Cbs4Evn.png)
    ![](https://i.imgur.com/aiTtYcj.png)
-2. Take out Primary 1 & 2 dari schedule
+5. Take out Primary 1 & 2 dari schedule ✅  
    ![](https://i.imgur.com/cEXjnt3.png)
-3. Primary 6 Punya session & notes sendiri
+6. Primary 6 Punya session & notes sendiri ✅  
    ![](https://i.imgur.com/3oE4qaS.png)
-4. Subject Code saja yg d print schedule
+7. Subject Code saja yg d print schedule ✅  
    ![](https://i.imgur.com/TKwgemP.png)
 
 
-5. edit parent error cause duplicate phone number, show error to not make user confuse ✅  
+8. edit parent error cause duplicate phone number, show error to not make user confuse ✅  
    ![](https://i.imgur.com/awzbNXn.png)
-6. Sylabus Code not Mandatory ✅  
+9. Sylabus Code not Mandatory ✅  
    ![](https://i.imgur.com/o0GCDcn.png)
 
 
 [[2025-08-06]]
-1. Filter student di class in year tidak jalan
+1. Filter student di class in year tidak jalan ✅  
    ![](https://i.imgur.com/2a9SGNc.png)
 
 [[2025-08-05]]
-2. [Enhance Feature] make enroll all on banding enroll, student assign to banding teacher
+2. [Enhance Feature] make enroll all on banding enroll, student assign to banding teacher ✅  
    ![](https://i.imgur.com/Vy5AGtd.png)
-3. Detail when assign time table, add level
+3. Detail when assign time table, add level ✅  
    ![](https://i.imgur.com/K9hzu2b.png)
 
 
 
 [[2025-08-04]]
-1. Grade tahun lewat masih bisa diedit
+1. Grade tahun lewat masih bisa diedit ✅  
    ![](https://i.imgur.com/GffXzzs.png)
 2. Exam Time Table ✅  
    ![](https://i.imgur.com/WYBzPDV.png)
