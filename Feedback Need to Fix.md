@@ -1,6 +1,9 @@
 [[2025-08-18]]
 1. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc.
    ![](https://i.imgur.com/xWkLoif.png)
+2. Field mata_pelajaran yang ada di DB belum muncul di UI frontend
+   ![](https://i.imgur.com/n1UGOBK.png)
+
 
 [[2025-08-11]]
 Special meeting for enhancement primary function
