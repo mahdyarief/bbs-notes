@@ -3,6 +3,9 @@
    ![](https://i.imgur.com/xWkLoif.png)
 2. Field mata_pelajaran yang ada di DB belum muncul di UI frontend
    ![](https://i.imgur.com/n1UGOBK.png)
+3. Syntax error near ( when hit campuses endpoint
+   ![](https://i.imgur.com/w8a8E9A.png)
+
 
 
 [[2025-08-11]]
