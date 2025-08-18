@@ -10,23 +10,23 @@
 
 [[2025-08-11]]
 Special meeting for enhancement primary function
-2. Add force user change password, for still use default password ✅  
-3. Add otp function if detect change from latest devices ✅  
+1. Add force user change password, for still use default password ✅  
+2. Add otp function if detect change from latest devices ✅  
 [[2025-08-11]]
-4. Take out Paper Name Initial ✅  
+3. Take out Paper Name Initial ✅  
    ![](https://i.imgur.com/Cbs4Evn.png)
    ![](https://i.imgur.com/aiTtYcj.png)
-5. Take out Primary 1 & 2 dari schedule ✅  
+4. Take out Primary 1 & 2 dari schedule ✅  
    ![](https://i.imgur.com/cEXjnt3.png)
-6. Primary 6 Punya session & notes sendiri ✅  
+5. Primary 6 Punya session & notes sendiri ✅  
    ![](https://i.imgur.com/3oE4qaS.png)
-7. Subject Code saja yg d print schedule ✅  
+6. Subject Code saja yg d print schedule ✅  
    ![](https://i.imgur.com/TKwgemP.png)
 
 
-8. edit parent error cause duplicate phone number, show error to not make user confuse ✅  
+7. edit parent error cause duplicate phone number, show error to not make user confuse ✅  
    ![](https://i.imgur.com/awzbNXn.png)
-9. Sylabus Code not Mandatory ✅  
+8. Sylabus Code not Mandatory ✅  
    ![](https://i.imgur.com/o0GCDcn.png)
 
 
