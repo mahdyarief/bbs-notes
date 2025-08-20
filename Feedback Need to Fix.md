@@ -1,10 +1,16 @@
+[[2025-08-19]]
+1. Revert back feature, show pickup list when student checkout
+   ![](https://i.imgur.com/YwYdkjd.png)
+
 [[2025-08-18]]
-1. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc.
+2. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc.
    ![](https://i.imgur.com/xWkLoif.png)
-2. Field mata_pelajaran yang ada di DB belum muncul di UI frontend
+3. Field mata_pelajaran yang ada di DB belum muncul di UI frontend
    ![](https://i.imgur.com/n1UGOBK.png)
-3. Syntax error near ( when hit campuses endpoint
+4. Syntax error near ( when hit campuses endpoint), also happen when edit employee
    ![](https://i.imgur.com/w8a8E9A.png)
+   ![](https://i.imgur.com/bWZO3f6.png)
+
 
 
 
