@@ -1,3 +1,15 @@
+[[2025-08-22]]
+1. Open weekend on attendance, and make function can delete attendance
+![](https://i.imgur.com/WKwiNJm.png)
+2. error disticntAlias, di SVEList, BMTWeek & ErataList
+![](https://i.imgur.com/JDSGtYD.png)
+3. Show Student ID on db
+   ![](https://i.imgur.com/ttafvmR.png)
+   ![](https://i.imgur.com/fVLY1h6.png)
+
+
+
+
 [[2025-08-19]]
 1. Revert back feature, show pickup list when student checkout
    ![](https://i.imgur.com/YwYdkjd.png)

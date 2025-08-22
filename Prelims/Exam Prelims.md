@@ -64,3 +64,6 @@ Prelims Predicted Grade Setting → Campus (Default Disable) → enum sejumlah t
 
 - [ ] Add unlock shortcut to unlock gradebook
     ![](https://i.imgur.com/Z0QnZW2.png)
+
+Contoh cover yg paling panjang untuk secondary
+![](https://i.imgur.com/IJU2BYT.png)
