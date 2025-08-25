@@ -3,6 +3,9 @@
    ![](https://i.imgur.com/uSFAPKU.png)
 2. [Enhance Feature] SVE Deadline di buat support special case level primary 6 seperti notes
    ![](https://i.imgur.com/x36BuXA.png)
+3. Lengkapin SVE exam typenya di sve list detail, BMT 1 atau 2, bukan BMT aja
+   ![](https://i.imgur.com/8LIxEqa.png)
+
 
 [[2025-08-22]]
 3. Open weekend on attendance, and make function can delete attendance
