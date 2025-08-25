@@ -1,9 +1,15 @@
+[[2025-08-25]]
+1. Generate coverpage & admin can edit result generate Coverpage
+   ![](https://i.imgur.com/uSFAPKU.png)
+2. [Enhance Feature] SVE Deadline di buat support special case level primary 6 seperti notes
+   ![](https://i.imgur.com/x36BuXA.png)
+
 [[2025-08-22]]
-1. Open weekend on attendance, and make function can delete attendance
+3. Open weekend on attendance, and make function can delete attendance
 ![](https://i.imgur.com/WKwiNJm.png)
-2. error disticntAlias, di SVEList, BMTWeek & ErataList
+4. error disticntAlias, di SVEList, BMTWeek & ErataList
 ![](https://i.imgur.com/JDSGtYD.png)
-3. Show Student ID on db
+5. Show Student ID on db
    ![](https://i.imgur.com/ttafvmR.png)
    ![](https://i.imgur.com/fVLY1h6.png)
 
