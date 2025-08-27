@@ -1,18 +1,42 @@
+[[2025-08-27]]
+1. edit LO year, additionalnya kena pagination
+   ![](https://i.imgur.com/sgbojDD.png)
+2. file not show on submission summary & add printed on di submission summary
+   ![](https://i.imgur.com/P9yB1FW.png)
+
+
+[[2025-08-26]]
+2. Component blum masuk ke coverpage
+   ![](https://i.imgur.com/c1s5YYE.png)
+
+3. SVE Cover page juga sort by subject, level, paper, seperti yang lainnya
+   ![](https://i.imgur.com/rSdXmnh.png)
+4. order di printing detail juga
+   ![](https://i.imgur.com/xh1eKep.png)
+5. Sort di pdf file BMT subject & level
+   ![](https://i.imgur.com/cwArKVw.png)
+
+6. Insert bukan dikanan, jumlahnya sama
+   ![](https://i.imgur.com/AhGsUdM.png)
+   ![](https://i.imgur.com/IlDNjnj.png)
+
+
+
 [[2025-08-25]]
-1. Generate coverpage & admin can edit result generate Coverpage
+3. Generate coverpage & admin can edit result generate Coverpage ✅  
    ![](https://i.imgur.com/uSFAPKU.png)
-2. [Enhance Feature] SVE Deadline di buat support special case level primary 6 seperti notes
+4. [Enhance Feature] SVE Deadline di buat support special case level primary 6 seperti notes
    ![](https://i.imgur.com/x36BuXA.png)
-3. Lengkapin SVE exam typenya di sve list detail, BMT 1 atau 2, bukan BMT aja
+5. Lengkapin SVE exam typenya di sve list detail, BMT 1 atau 2, bukan BMT aja
    ![](https://i.imgur.com/8LIxEqa.png)
 
 
 [[2025-08-22]]
-3. Open weekend on attendance, and make function can delete attendance
+3. Open weekend on attendance, and make function can delete attendance ✅  
 ![](https://i.imgur.com/WKwiNJm.png)
-4. error disticntAlias, di SVEList, BMTWeek & ErataList
+4. error disticntAlias, di SVEList, BMTWeek & ErataList ✅  
 ![](https://i.imgur.com/JDSGtYD.png)
-5. Show Student ID on db
+5. Show Student ID on db ✅  
    ![](https://i.imgur.com/ttafvmR.png)
    ![](https://i.imgur.com/fVLY1h6.png)
 
@@ -20,15 +44,15 @@
 
 
 [[2025-08-19]]
-1. Revert back feature, show pickup list when student checkout
+1. Revert back feature, show pickup list when student checkout ✅  
    ![](https://i.imgur.com/YwYdkjd.png)
 
 [[2025-08-18]]
-2. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc.
+2. On sve exam time table, add sort on apps (Default Sort: Subject, Level, Paper, date) and make user can change order on (Subject, Level, Component, Date) order asc and desc. ✅  
    ![](https://i.imgur.com/xWkLoif.png)
-3. Field mata_pelajaran yang ada di DB belum muncul di UI frontend
+3. Field mata_pelajaran yang ada di DB belum muncul di UI frontend ✅  
    ![](https://i.imgur.com/n1UGOBK.png)
-4. Syntax error near ( when hit campuses endpoint), also happen when edit employee
+4. Syntax error near ( when hit campuses endpoint), also happen when edit employee ✅  
    ![](https://i.imgur.com/w8a8E9A.png)
    ![](https://i.imgur.com/bWZO3f6.png)
 
