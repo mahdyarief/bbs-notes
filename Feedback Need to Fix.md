@@ -1,5 +1,14 @@
+[[2025-08-29]]
+1. Change on Report
+   ![](https://i.imgur.com/dNWvc2k.png)
+   make setting Attendance Detail (LO & GradeBook )
+   Attendance 49
+   Number of School Days: 50 | Absent: 3 Gabung W& Wo | Tardy: (Ambil Late)
+2. Ukurannya se, apply di term 1 & 3 dulu
+   ![](https://i.imgur.com/bClja67.png)
+
 [[2025-08-27]]
-1. edit LO year, additionalnya kena pagination
+1. Edit LO year, additionalnya kena pagination
    ![](https://i.imgur.com/sgbojDD.png)
 2. file not show on submission summary & add printed on di submission summary
    ![](https://i.imgur.com/P9yB1FW.png)
