@@ -1,24 +1,24 @@
 [[2025-09-02]]
-1. Check when send erratum, it need to email to all subject teacher
-2. SVE List detail still show all paper type, need to adjust show only for BMT and not BMT
+1. Check when send erratum, it need to email to all subject teacher (Teacher Portal)
+2. SVE List detail still show all paper type, need to adjust show only for BMT and not BMT (Admin Portal)
    ![](https://i.imgur.com/QI4tvtk.png)
-3. Implement HOD function on SVE Menu, using RBAC SVE Manage, but only show their subject based on master subject
-	1. If user not HOD have access right manage SVE, it show all subject
-4. Split RBAC SVE
+3. Implement HOD function on SVE Menu, using RBAC SVE Manage, but only show their subject based on master subject (Admin Portal)
+	1. If user not HOD have access right manage SVE, it show all subject (Admin Portal)
+4. Split RBAC SVE (Admin Portal)
 	1. SVE Printing Request (its for Principal)
-5. SVE Past Paper
+5. SVE Past Paper (Teacher Portal)
 	1. can select all files exept current academic year
 	2. and show all file like curren sve list, but for past AY
 	3. Only show for SVE only, not for subject teacher
-6. Final Menu
+6. Final Menu (Teacher Portal)
 	1. SVE List -> SVE Assignment  
 	2. SVE File -> BMT File Download  
 	3. Exam Supporting Files Download (HOD Access)
-7. Change SVE Files to → BMT Files
+7. Change SVE Files to → BMT Files (Teacher Portal)
 	1. Only show file for BMT, BMT 1 & 2
 	2. Subject teacher show for based on subject their teach, spesific subject & level
 	3. HOD show based on ther master subject, subject and all level
-8. HOD Files
+8. Exam Supporting Files Download (Teacher Portal)
 	1. Show file for another BMT, to show audio File on H - 7 Exam date & H + 1 Exam date to show QP and MS
 9. Recheck HOD can access to teacher portal, then when move to menu resource, can access subject based on their master subject, are it already implement or not?
 	1. Because is related to HOD Files, so HOD can access to teacher portal & admin portal, to see SVE process, and, see SVE Result and resource created with teacher
