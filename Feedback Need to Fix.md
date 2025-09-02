@@ -10,13 +10,17 @@
 	1. can select all files exept current academic year
 	2. and show all file like curren sve list, but for past AY
 	3. Only show for SVE only, not for subject teacher
-6. Change SVE Files to → BMT Files
+6. Final Menu
+	1. SVE List -> SVE Assignment  
+	2. SVE File -> BMT File Download  
+	3. Exam Supporting Files Download (HOD Access)
+7. Change SVE Files to → BMT Files
 	1. Only show file for BMT, BMT 1 & 2
 	2. Subject teacher show for based on subject their teach, spesific subject & level
 	3. HOD show based on ther master subject, subject and all level
-7. HOD Files
+8. HOD Files
 	1. Show file for another BMT, to show audio File on H - 7 Exam date & H + 1 Exam date to show QP and MS
-8. Recheck HOD can access to teacher portal, then when move to menu resource, can access subject based on their master subject, are it already implement or not?
+9. Recheck HOD can access to teacher portal, then when move to menu resource, can access subject based on their master subject, are it already implement or not?
 	1. Because is related to HOD Files, so HOD can access to teacher portal & admin portal, to see SVE process, and, see SVE Result and resource created with teacher
 
 [[2025-09-01]]
