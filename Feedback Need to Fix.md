@@ -1,5 +1,29 @@
+[[2025-09-02]]
+1. Check when send erratum, it need to email to all subject teacher
+2. SVE List detail still show all paper type, need to adjust show only for BMT and not BMT
+   ![](https://i.imgur.com/QI4tvtk.png)
+3. Implement HOD function on SVE Menu, using RBAC SVE Manage, but only show their subject based on master subject
+	1. If user not HOD have access right manage SVE, it show all subject
+4. Split RBAC SVE
+	1. SVE Printing Request (its for Principal)
+5. SVE Past Paper
+	1. can select all files exept current academic year
+	2. and show all file like curren sve list, but for past AY
+	3. Only show for SVE only, not for subject teacher
+6. Change SVE Files to → BMT Files
+	1. Only show file for BMT, BMT 1 & 2
+7. HOD Files
+	1. Show file for another BMT, to show audio File on H - 7 Exam date & H + 1 Exam date to show QP and MS
+8. Recheck HOD can access to teacher portal, then when move to menu resource, can access subject based on their master subject, are it already implement or not?
+	1. Because is related to HOD Files, so HOD can access to teacher portal & admin portal, to see SVE process, and, see SVE Result and resource created with teacher
+
+[[2025-09-01]]
+1. File BMT not show on teacher, file is already BMT ✅  
+2. When bmt is in week, erratum file not open, it need to open on week -1 untul D-Week, and disable all upload when W + 1 ✅  
+3. file download is sometimes not best quality, make blurry ✅  
+
 [[2025-08-29]]
-1. Change on Report
+1.  Change on Report
    ![](https://i.imgur.com/dNWvc2k.png)
    make setting Attendance Detail (LO & GradeBook )
    Attendance 49
@@ -8,24 +32,24 @@
    ![](https://i.imgur.com/bClja67.png)
 
 [[2025-08-27]]
-1. Edit LO year, additionalnya kena pagination
+1. Edit LO year, additionalnya kena pagination ✅  
    ![](https://i.imgur.com/sgbojDD.png)
 2. file not show on submission summary & add printed on di submission summary
    ![](https://i.imgur.com/P9yB1FW.png)
 
 
 [[2025-08-26]]
-2. Component blum masuk ke coverpage
+1. Component blum masuk ke coverpage
    ![](https://i.imgur.com/c1s5YYE.png)
 
-3. SVE Cover page juga sort by subject, level, paper, seperti yang lainnya
+2. SVE Cover page juga sort by subject, level, paper, seperti yang lainnya
    ![](https://i.imgur.com/rSdXmnh.png)
-4. order di printing detail juga
+3. order di printing detail juga
    ![](https://i.imgur.com/xh1eKep.png)
-5. Sort di pdf file BMT subject & level
+4. Sort di pdf file BMT subject & level
    ![](https://i.imgur.com/cwArKVw.png)
 
-6. Insert bukan dikanan, jumlahnya sama
+5. Insert bukan dikanan, jumlahnya sama
    ![](https://i.imgur.com/AhGsUdM.png)
    ![](https://i.imgur.com/IlDNjnj.png)
 
