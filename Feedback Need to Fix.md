@@ -12,6 +12,8 @@
 	3. Only show for SVE only, not for subject teacher
 6. Change SVE Files to → BMT Files
 	1. Only show file for BMT, BMT 1 & 2
+	2. Subject teacher show for based on subject their teach, spesific subject & level
+	3. HOD show based on ther master subject, subject and all level
 7. HOD Files
 	1. Show file for another BMT, to show audio File on H - 7 Exam date & H + 1 Exam date to show QP and MS
 8. Recheck HOD can access to teacher portal, then when move to menu resource, can access subject based on their master subject, are it already implement or not?
