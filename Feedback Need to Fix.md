@@ -1,3 +1,21 @@
+[[2025-09-12]]
+Cover page Template
+1. Filter Programme di coverpage template error,
+2. Tambahin font arial
+3. Linenya dibuat lebih tebel (horizontal rule)
+4. tinggi editornya, untuk view 50%
+[[2025-09-11]]
+1. Add entry by saat ngisi nilai ftp / ebadges, supaya ke track siapa yg ngasih nilai
+   ![](https://i.imgur.com/qviMhfc.png)
+2. Copy cover page from select academic year, do able on each cover paper, not generate all
+
+[[2025-09-10]]
+1. Ini edit double
+   ![](https://i.imgur.com/hpuKRQu.png)
+2. Add info Level
+   ![](https://i.imgur.com/6ANe2Zo.png)
+3. 
+
 [[2025-09-02]]
 1. Check when send erratum, it need to email to all subject teacher (Teacher Portal)
 2. SVE List detail still show all paper type, need to adjust show only for BMT and not BMT (Admin Portal)
@@ -47,7 +65,6 @@
 [[2025-08-26]]
 1. Component blum masuk ke coverpage
    ![](https://i.imgur.com/c1s5YYE.png)
-
 2. SVE Cover page juga sort by subject, level, paper, seperti yang lainnya
    ![](https://i.imgur.com/rSdXmnh.png)
 3. order di printing detail juga
