@@ -1,18 +1,25 @@
+[[2025-09-15]]
+1. Saat di set HOD, semua subject muncul, belum aware subject di bawa master subjectnya, kadang muncul semua, kadang bener
+   ![](https://i.imgur.com/MO4u298.png)
+2. Upload erratum ga muncul
+   ![](https://i.imgur.com/9ZwiuwZ.png)
+
+
 [[2025-09-12]]
 Cover page Template
-1. Filter Programme di coverpage template error,
-2. Tambahin font arial
-3. Linenya dibuat lebih tebel (horizontal rule)
-4. tinggi editornya, untuk view 50%
+2. Filter Programme di coverpage template error,
+3. Tambahin font arial
+4. Linenya dibuat lebih tebel (horizontal rule)
+5. tinggi editornya, untuk view 50%
 [[2025-09-11]]
-1. Add entry by saat ngisi nilai ftp / ebadges, supaya ke track siapa yg ngasih nilai
+6. Add entry by saat ngisi nilai ftp / ebadges, supaya ke track siapa yg ngasih nilai
    ![](https://i.imgur.com/qviMhfc.png)
-2. Copy cover page from select academic year, do able on each cover paper, not generate all
+7. Copy cover page from select academic year, do able on each cover paper, not generate all ✅  
 
 [[2025-09-10]]
-1. Ini edit double
+1. Ini edit double vv
    ![](https://i.imgur.com/hpuKRQu.png)
-2. Add info Level
+2. Add info Level ✅  
    ![](https://i.imgur.com/6ANe2Zo.png)
 3. 
 
