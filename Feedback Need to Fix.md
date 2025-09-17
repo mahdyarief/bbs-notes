@@ -1,3 +1,9 @@
+[[2025-09-17]]
+1. saat scan attendance kelasnya salah: Ini Annabella saat ini sudah p5 G tapi ketika di scan masih di P4
+   ![](https://i.imgur.com/C3pIX5g.png)
+2. asd
+
+
 [[2025-09-15]]
 1. Saat di set HOD, semua subject muncul, belum aware subject di bawa master subjectnya, kadang muncul semua, kadang bener
    ![](https://i.imgur.com/MO4u298.png)
