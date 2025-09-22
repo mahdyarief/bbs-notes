@@ -1,13 +1,22 @@
+[[2025-09-22]]
+1. Hapus . (titik di courtesy)
+   ![](https://i.imgur.com/2S2vTyH.png)
+2. Print pdfnya kepotong
+   https://teacher.smartbag.binabangsaschool.com/gradebook/101681
+3. Saat ngisi academic week data, nyusahin, ga bisa validasinya ga terlalu strict? diisi cuma 1 week dlu aja gpp, jadi 1 1
+   ![](https://i.imgur.com/EBcSi46.png)
+
+4. aasd
 [[2025-09-19]]
 ELEARNING DAY PROBLEM
-1. some case teacher select term 2, on chapter, so assignment is not show (not bug)
+5. some case teacher select term 2, on chapter, so assignment is not show (not bug)
    ![](https://i.imgur.com/OWhxF2C.png)
 
-2. Chinese Language Need to trace → wrong use of fill in the blank
+6. Chinese Language Need to trace → wrong use of fill in the blank
    ![](https://i.imgur.com/G8sDjQZ.png)
-3. Jumlah siswa ga sesuai di report di ftp sudah sesuai
+7. Jumlah siswa ga sesuai di report di ftp sudah sesuai
    ![](https://i.imgur.com/AgFPMIc.png)
-4. This morning down because need to update version of library → 
+8. This morning down because need to update version of library → 
 
 [[2025-09-17]]
 2. saat scan attendance kelasnya salah: Ini Annabella saat ini sudah p5 G tapi ketika di scan masih di P4
