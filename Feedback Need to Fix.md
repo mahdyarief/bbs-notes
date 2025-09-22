@@ -5,19 +5,22 @@
    https://teacher.smartbag.binabangsaschool.com/gradebook/101681
 3. Saat ngisi academic week data, nyusahin, ga bisa validasinya ga terlalu strict? diisi cuma 1 week dlu aja gpp, jadi 1 1
    ![](https://i.imgur.com/EBcSi46.png)
-4. Order Subject di Progres Report Belum Sesuai, order by category, lalu priority
+4. Order Subject di Progres Report Belum Sesuai, order by category, lalu priority ✅  Belum update report
    ![](https://i.imgur.com/yN0TZUm.png)
+5. Student Report Class Yearnya 0 , sync classyear, studentnya ga ada di class_year_student_student
+   ![](https://i.imgur.com/eAAolWx.png)
 
+6. 
 [[2025-09-19]]
 ELEARNING DAY PROBLEM
-5. some case teacher select term 2, on chapter, so assignment is not show (not bug)
+7. some case teacher select term 2, on chapter, so assignment is not show (not bug)
    ![](https://i.imgur.com/OWhxF2C.png)
 
-6. Chinese Language Need to trace → wrong use of fill in the blank
+8. Chinese Language Need to trace → wrong use of fill in the blank
    ![](https://i.imgur.com/G8sDjQZ.png)
-7. Jumlah siswa ga sesuai di report di ftp sudah sesuai
+9. Jumlah siswa ga sesuai di report di ftp sudah sesuai
    ![](https://i.imgur.com/AgFPMIc.png)
-8. This morning down because need to update version of library → 
+10. This morning down because need to update version of library → 
 
 [[2025-09-17]]
 2. saat scan attendance kelasnya salah: Ini Annabella saat ini sudah p5 G tapi ketika di scan masih di P4
