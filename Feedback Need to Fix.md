@@ -5,8 +5,9 @@
    https://teacher.smartbag.binabangsaschool.com/gradebook/101681
 3. Saat ngisi academic week data, nyusahin, ga bisa validasinya ga terlalu strict? diisi cuma 1 week dlu aja gpp, jadi 1 1
    ![](https://i.imgur.com/EBcSi46.png)
+4. Order Subject di Progres Report Belum Sesuai, order by category, lalu priority
+   ![](https://i.imgur.com/yN0TZUm.png)
 
-4. aasd
 [[2025-09-19]]
 ELEARNING DAY PROBLEM
 5. some case teacher select term 2, on chapter, so assignment is not show (not bug)
