@@ -1,16 +1,37 @@
+[[2025-09-23]]
+1. List student always order by name
+   ![](https://i.imgur.com/D1GKa6Y.png)
+   ![](https://i.imgur.com/9dssdK9.png)
+2. Epic Moment
+   ![](https://i.imgur.com/EN4pSRV.png)
+3. Template e-report dan print report di term 1 dan 3 ga sama templatenya
+   **LO Report**
+   E-Report
+   ![](https://i.imgur.com/U9jymSF.png)
+   Print Report
+   ![](https://i.imgur.com/YP7qUT6.png)
+   **P3-6 Report**
+   E-Report
+   ![](https://i.imgur.com/QQqj7Ba.png)
+   Print Report
+   ![](https://i.imgur.com/EQhsFik.png)
+
+
+
+
 [[2025-09-22]]
-1. Hapus . (titik di courtesy)
+2. Hapus . (titik di courtesy)
    ![](https://i.imgur.com/2S2vTyH.png)
-2. Print pdfnya kepotong
+3. Print pdfnya kepotong
    https://teacher.smartbag.binabangsaschool.com/gradebook/101681
-3. Saat ngisi academic week data, nyusahin, ga bisa validasinya ga terlalu strict? diisi cuma 1 week dlu aja gpp, jadi 1 1
+4. Saat ngisi academic week data, nyusahin, ga bisa validasinya ga terlalu strict? diisi cuma 1 week dlu aja gpp, jadi 1 1
    ![](https://i.imgur.com/EBcSi46.png)
-4. Order Subject di Progres Report Belum Sesuai, order by category, lalu priority ✅  Belum update report
+5. Order Subject di Progres Report Belum Sesuai, order by category, lalu priority ✅  Belum update report
    ![](https://i.imgur.com/yN0TZUm.png)
-5. Student Report Class Yearnya 0 , sync classyear, studentnya ga ada di class_year_student_student
+6. Student Report Class Yearnya 0 , sync classyear, studentnya ga ada di class_year_student_student
    ![](https://i.imgur.com/eAAolWx.png)
 
-6. 
+7. 
 [[2025-09-19]]
 ELEARNING DAY PROBLEM
 7. some case teacher select term 2, on chapter, so assignment is not show (not bug)
