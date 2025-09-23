@@ -1,10 +1,26 @@
+[[2025-09-24]]
+1. Tardiness not show, sample on student "Kennan Rhys Ng"
+   ![](https://i.imgur.com/ClNdDij.png)
+   ![](https://i.imgur.com/BqeM48W.png)
+   Already update report
+   List of complain
+   Cayla Tiffany Lie: Tardiness = 1 ✅  
+   Eleanor Esther Sucipto: Tardiness = 1 ✅  
+   Eric Denant Astrianto: Tardiness = 1 ❌ Late 1 Absent 2, show absent only
+   Geng Chen: Tardiness = 2 ❌ 
+   Kennan Rhys Ng: Tardiness = 3 ❌ 
+   Tristan Nathaniel Au: Tardiness = 2 ❌ 
+   
+   Issue not pattern
+
+
 [[2025-09-23]]
-1. List student always order by name
+2. List student always order by name
    ![](https://i.imgur.com/D1GKa6Y.png)
    ![](https://i.imgur.com/9dssdK9.png)
-2. Epic Moment
+3. Epic Moment
    ![](https://i.imgur.com/EN4pSRV.png)
-3. Template e-report dan print report di term 1 dan 3 ga sama templatenya
+4. Template e-report dan print report di term 1 dan 3 ga sama templatenya
    **LO Report**
    E-Report
    ![](https://i.imgur.com/U9jymSF.png)
@@ -15,6 +31,10 @@
    ![](https://i.imgur.com/QQqj7Ba.png)
    Print Report
    ![](https://i.imgur.com/EQhsFik.png)
+5. add filter CCA name on CCA Grade Setting
+   ![](https://i.imgur.com/xLVWwoh.png)
+6. Add default Value when create cca Grade setting to, 16,11,7,2 on each term
+   ![](https://i.imgur.com/rnXpXxr.png)
 
 
 
