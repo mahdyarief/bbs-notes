@@ -2,6 +2,8 @@
 1. Value on dicipline overview ngaco, tapi di detailnya bener, di teacher di attendance summary juga salah, (impact on admin and teacher)
    ![](https://i.imgur.com/je9aHPK.png)
    ![](https://i.imgur.com/UPhnBYd.png)
+2. Di LO saat diiisi nilai 0, di ga ngebaca BDCPnya
+   ![](https://i.imgur.com/7QnPt6b.png)
 
 
 [[2025-09-24]]
