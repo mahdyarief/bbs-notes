@@ -1,5 +1,11 @@
+[[2025-09-25]]
+1. Value on dicipline overview ngaco, tapi di detailnya bener, di teacher di attendance summary juga salah, (impact on admin and teacher)
+   ![](https://i.imgur.com/je9aHPK.png)
+   ![](https://i.imgur.com/UPhnBYd.png)
+
+
 [[2025-09-24]]
-1. Tardiness not show, sample on student "Kennan Rhys Ng"
+2. Tardiness not show, sample on student "Kennan Rhys Ng"
    ![](https://i.imgur.com/ClNdDij.png)
    ![](https://i.imgur.com/BqeM48W.png)
    Already update report
@@ -12,7 +18,7 @@
    Tristan Nathaniel Au: Tardiness = 2 ❌ 
    
    Issue not pattern
-
+PIK, KJ, MLG, SMG, BDG, BPN
 
 [[2025-09-23]]
 2. List student always order by name
