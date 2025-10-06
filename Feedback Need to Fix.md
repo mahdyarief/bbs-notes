@@ -1,8 +1,25 @@
+[[2025-10-06]]
+1. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya
+   ![](https://i.imgur.com/JO4OlnY.png)
+2. Change auto term to active term, jadi auto to active term
+   ![](https://i.imgur.com/Oh8YLfA.png)
+
+
+[[2025-10-01]]
+2. Disable auto open newtab link
+[[2025-09-30]]
+3. Pindah kelas sekalian bawa nilai dari kelas sebelumnya
+   ![](https://i.imgur.com/8aDa9bD.png)
+4. Late Printing Request Label ✅  
+   ![](https://i.imgur.com/JBru4fb.png)
+   ![](https://i.imgur.com/rWJUp8x.png)
+
+
 [[2025-09-25]]
-1. Value on dicipline overview ngaco, tapi di detailnya bener, di teacher di attendance summary juga salah, (impact on admin and teacher)
+3. Value on dicipline overview ngaco, tapi di detailnya bener, di teacher di attendance summary juga salah, (impact on admin and teacher) ✅  
    ![](https://i.imgur.com/je9aHPK.png)
    ![](https://i.imgur.com/UPhnBYd.png)
-2. Di LO saat diiisi nilai 0, di ga ngebaca BDCPnya
+4. Di LO saat diiisi nilai 0, di ga ngebaca BDCPnya
    ![](https://i.imgur.com/7QnPt6b.png)
 
 
@@ -86,10 +103,10 @@ ELEARNING DAY PROBLEM
 
 [[2025-09-12]]
 Cover page Template
-2. Filter Programme di coverpage template error,
-3. Tambahin font arial
-4. Linenya dibuat lebih tebel (horizontal rule)
-5. tinggi editornya, untuk view 50%
+2. Filter Programme di coverpage template error, ✅  
+3. Tambahin font arial ✅  
+4. Linenya dibuat lebih tebel (horizontal rule) ✅  
+5. tinggi editornya, untuk view 50% 
 [[2025-09-11]]
 6. Add entry by saat ngisi nilai ftp / ebadges, supaya ke track siapa yg ngasih nilai
    ![](https://i.imgur.com/qviMhfc.png)
