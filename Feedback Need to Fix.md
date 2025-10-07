@@ -1,9 +1,21 @@
-[[2025-10-06]]
-1. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya
-   ![](https://i.imgur.com/JO4OlnY.png)
-2. Change auto term to active term, jadi auto to active term
-   ![](https://i.imgur.com/Oh8YLfA.png)
+[[2025-10-07]]
+1. Login to account mr terence, create new test lesson, 
+   ![](https://i.imgur.com/Kk92a1S.png)
+   it show assign 2 student, 
+   ![](https://i.imgur.com/u84DXqu.png)
+   but when check no student selected, it make lesson cant delete
+   ![](https://i.imgur.com/cUPEqib.png)
 
+
+
+[[2025-10-06]]
+2. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya
+   ![](https://i.imgur.com/JO4OlnY.png)
+3. Change auto term to active term, jadi auto to active term
+   ![](https://i.imgur.com/Oh8YLfA.png)
+4. Error when create class_year
+   ![](https://i.imgur.com/RVL4gAk.png)
+5. Recheck waktu promote mindahin student campus apa enggak, hipotesa student dari pik Pre School, waktu di promote jadi Primary
 
 [[2025-10-01]]
 2. Disable auto open newtab link
