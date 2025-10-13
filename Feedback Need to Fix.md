@@ -1,10 +1,23 @@
+[[2025-10-13]]
+1. error create new parent
+   ![](https://i.imgur.com/iraFTBQ.png)
+
+[[2025-10-08]]
+2. Move Attendace, saat promote, kalo ada attendance di kelas origin, di move ke kelas destination
+3. Lock Unlock LO in Year
+   ![](https://i.imgur.com/UWRAiqg.png)
+
 [[2025-10-07]]
-1. Login to account mr terence, create new test lesson, 
+3. Login to account mr terence, create new test lesson, 
    ![](https://i.imgur.com/Kk92a1S.png)
    it show assign 2 student, 
    ![](https://i.imgur.com/u84DXqu.png)
    but when check no student selected, it make lesson cant delete
    ![](https://i.imgur.com/cUPEqib.png)
+4. Pagination pagenya, ga ada di file sharing academic departments, replace pake component table yg di pake sama SOW, ini masih pake bbs table yg lama
+   dan tambahkan departementnya di table, jadi fileName | AcademicDepartment
+   ![](https://i.imgur.com/lIUTgaZ.png)
+   
 
 
 
