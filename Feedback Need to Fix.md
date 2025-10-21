@@ -1,5 +1,11 @@
+[[2025-10-21]]
+1. BMT file show, padahal blum d approve
+   ![](https://i.imgur.com/93H0Xls.png)
+   ![](https://i.imgur.com/h7vQ0W9.png)
+
+
 [[2025-10-13]]
-1. error create new parent
+2. error create new parent
    ![](https://i.imgur.com/iraFTBQ.png)
 
 [[2025-10-08]]
