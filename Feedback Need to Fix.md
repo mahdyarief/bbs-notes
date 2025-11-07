@@ -1,5 +1,33 @@
+[[2025-11-07]]
+1. Discipline Report
+	1. Number of report must be aware with Academic Year
+	   Case: Student : Oliver Princeton Chamber, number of form is 4
+	   ![](https://i.imgur.com/IVyhnl1.png)
+	   if check on data detail
+	   ![](https://i.imgur.com/DB8ogeH.png)
+	   3 on ay 24/25
+	   1 on ay 25/26
+	   ![](https://i.imgur.com/daNFipw.png)
+	   so it must be, when AY 24/25 number form is 3
+	   when AY 25/26 number must be 1
+   2. Data Export on Excel & PDF must be aware with filter data, if possible do all filter,
+      if not filter by student, status, form issued, AY, and term
+   
+
+
+
+[[2025-10-22]]
+2. login error EmployeeDevice
+   ![](https://i.imgur.com/S9vyUnb.png)
+3. Check filter assignment
+   ![](https://i.imgur.com/MOKjgfl.png)
+   ![](https://i.imgur.com/Z8eJ0Oo.png)
+
+
+
+
 [[2025-10-21]]
-1. BMT file show, padahal blum d approve
+2. BMT file show, padahal blum d approve
    ![](https://i.imgur.com/93H0Xls.png)
    ![](https://i.imgur.com/h7vQ0W9.png)
 
