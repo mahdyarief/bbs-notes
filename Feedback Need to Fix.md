@@ -12,8 +12,8 @@
 	   when AY 25/26 number must be 1
    2. Data Export on Excel & PDF must be aware with filter data, if possible do all filter,
       if not filter by student, status, form issued, AY, and term
-   
-
+3. On tardiness Report, when select student, change student ID to Current Class Year
+   ![](https://i.imgur.com/2o1pYYb.png)
 
 
 [[2025-10-22]]
