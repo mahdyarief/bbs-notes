@@ -1,5 +1,25 @@
+[[2025-11-11]]
+1. Printing Details SVE
+   Penambahan field Answer Sheet pada saat Printing request, sesuai dengan additional Component yg di set di SVE Component
+   ![](https://i.imgur.com/DLPc0No.png)
+   maka printing details akan kalkulasi dari sana, dan akan muncul kolom pada printing request
+   ![](https://i.imgur.com/BWIYvVW.png)
+   ![](https://i.imgur.com/5O7jz94.png)
+2. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
+   → sebelumnya kalo nilai term 1 selalu open kalo null, ga aware sama lock subject
+	1. Case: user: christly.pik | Primary 3 Initiative / Science | Liu Hehao
+3. Rename Label Printing Deadline → Printing Request Deadline
+   ![](https://i.imgur.com/8qrmViK.png)
+   ![](https://i.imgur.com/B2TNWot.png)
+4. Cek rootcause, daily_attendance double
+   ![](https://i.imgur.com/zJcjPzR.png)
+   https://mattermost.klabs.dev/klabs/pl/ttiqqda8zbnafr9kixgdq8e9nc
+5. Impersonate for Admin Portal
+   ![](https://i.imgur.com/JDiXR8v.png)
+
+	   
 [[2025-11-07]]
-1. Discipline Report
+5. Discipline Report ✅  
 	1. Number of report must be aware with Academic Year
 	   Case: Student : Oliver Princeton Chamber, number of form is 4
 	   ![](https://i.imgur.com/IVyhnl1.png)
@@ -10,16 +30,16 @@
 	   ![](https://i.imgur.com/daNFipw.png)
 	   so it must be, when AY 24/25 number form is 3
 	   when AY 25/26 number must be 1
-   2. Data Export on Excel & PDF must be aware with filter data, if possible do all filter,
+   6. Data Export on Excel & PDF must be aware with filter data, if possible do all filter,
       if not filter by student, status, form issued, AY, and term
-3. On tardiness Report, when select student, change student ID to Current Class Year
+7. On tardiness Report, when select student, change student ID to Current Class Year ✅  
    ![](https://i.imgur.com/2o1pYYb.png)
 
 
 [[2025-10-22]]
-2. login error EmployeeDevice
+2. login error EmployeeDevice ✅  
    ![](https://i.imgur.com/S9vyUnb.png)
-3. Check filter assignment
+3. Check filter assignment ✅  
    ![](https://i.imgur.com/MOKjgfl.png)
    ![](https://i.imgur.com/Z8eJ0Oo.png)
 
@@ -27,47 +47,47 @@
 
 
 [[2025-10-21]]
-2. BMT file show, padahal blum d approve
+2. BMT file show, padahal blum d approve ✅  
    ![](https://i.imgur.com/93H0Xls.png)
    ![](https://i.imgur.com/h7vQ0W9.png)
 
 
 [[2025-10-13]]
-2. error create new parent
+2. error create new parent ✅  
    ![](https://i.imgur.com/iraFTBQ.png)
 
 [[2025-10-08]]
-2. Move Attendace, saat promote, kalo ada attendance di kelas origin, di move ke kelas destination
-3. Lock Unlock LO in Year
+2. Move Attendace, saat promote, kalo ada attendance di kelas origin, di move ke kelas destination ✅  
+3. Lock Unlock LO in Year ✅  
    ![](https://i.imgur.com/UWRAiqg.png)
 
 [[2025-10-07]]
-3. Login to account mr terence, create new test lesson, 
+3. Login to account mr terence, create new test lesson,  ✅  
    ![](https://i.imgur.com/Kk92a1S.png)
    it show assign 2 student, 
    ![](https://i.imgur.com/u84DXqu.png)
    but when check no student selected, it make lesson cant delete
    ![](https://i.imgur.com/cUPEqib.png)
 4. Pagination pagenya, ga ada di file sharing academic departments, replace pake component table yg di pake sama SOW, ini masih pake bbs table yg lama
-   dan tambahkan departementnya di table, jadi fileName | AcademicDepartment
+   dan tambahkan departementnya di table, jadi fileName | AcademicDepartment ❗ 
    ![](https://i.imgur.com/lIUTgaZ.png)
    
 
 
 
 [[2025-10-06]]
-2. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya
+2. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya ✅  
    ![](https://i.imgur.com/JO4OlnY.png)
-3. Change auto term to active term, jadi auto to active term
+3. Change auto term to active term, jadi auto to active term ✅  
    ![](https://i.imgur.com/Oh8YLfA.png)
-4. Error when create class_year
+4. Error when create class_year ✅  
    ![](https://i.imgur.com/RVL4gAk.png)
-5. Recheck waktu promote mindahin student campus apa enggak, hipotesa student dari pik Pre School, waktu di promote jadi Primary
+5. Recheck waktu promote mindahin student campus apa enggak, hipotesa student dari pik Pre School, waktu di promote jadi Primary ✅  
 
 [[2025-10-01]]
-2. Disable auto open newtab link
+2. Disable auto open newtab link ✅  
 [[2025-09-30]]
-3. Pindah kelas sekalian bawa nilai dari kelas sebelumnya
+3. Pindah kelas sekalian bawa nilai dari kelas sebelumnya ✅  
    ![](https://i.imgur.com/8aDa9bD.png)
 4. Late Printing Request Label ✅  
    ![](https://i.imgur.com/JBru4fb.png)
