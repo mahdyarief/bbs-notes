@@ -1,20 +1,26 @@
+[[2025-11-13]]
+1. Extra Printing Request langsung d tambahin (ini sample KJ)
+   ![](https://i.imgur.com/efQTugJ.png)
+   ![](https://i.imgur.com/razAxpA.png)
+   disini masih 30
+
 [[2025-11-11]]
-1. Printing Details SVE
+2. Printing Details SVE
    Penambahan field Answer Sheet pada saat Printing request, sesuai dengan additional Component yg di set di SVE Component
    ![](https://i.imgur.com/DLPc0No.png)
    maka printing details akan kalkulasi dari sana, dan akan muncul kolom pada printing request
    ![](https://i.imgur.com/BWIYvVW.png)
    ![](https://i.imgur.com/5O7jz94.png)
-2. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
+3. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
    → sebelumnya kalo nilai term 1 selalu open kalo null, ga aware sama lock subject
 	1. Case: user: christly.pik | Primary 3 Initiative / Science | Liu Hehao
-3. Rename Label Printing Deadline → Printing Request Deadline
+4. Rename Label Printing Deadline → Printing Request Deadline
    ![](https://i.imgur.com/8qrmViK.png)
    ![](https://i.imgur.com/B2TNWot.png)
-4. Cek rootcause, daily_attendance double
+5. Cek rootcause, daily_attendance double
    ![](https://i.imgur.com/zJcjPzR.png)
    https://mattermost.klabs.dev/klabs/pl/ttiqqda8zbnafr9kixgdq8e9nc
-5. Impersonate for Admin Portal
+6. Impersonate for Admin Portal
    ![](https://i.imgur.com/JDiXR8v.png)
 
 	   
