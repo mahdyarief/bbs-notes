@@ -1,5 +1,38 @@
+[[2025-11-17]]
+1. SVE Deadline Urutan, default urutan column, Assign → Printing Request  (Change Label from Printing Deadline to Printing Request Deadline) → Uploading → Timetable
+2. Delete row table di ga bisa di delete, dan di buat fungsi full screen si document editor
+   ![](https://i.imgur.com/CaQtV1E.png)
+3. Add SVE Report, another Report, 
+	1. Printing Details ✅  
+	2. ❓ 
+4. Printing Details
+	1. Add Tanggal cetak di footernya (Printed On)
+	2. Setiap halaman Ada header
+	3. Untuk Paper yg ada Insert, ditambahkan kolom baru di bawahnya langsung dengan pembeda, Level, Component
+	4. Insert jadiin Baris
+	   case:
+	   1 B Indo - Primary 3 - Paper 1
+	   2 B Indo - Primary 3 - Paper 1 (INSERT) → Insert ambil dari QP → Marking Scheme NULL → Answer Sheet NULL
+	   
+	   ![](https://i.imgur.com/56yXAy2.png)
+	5. Report Title → Primary / Secondary FYE (Printing Details)
+	   ![](https://i.imgur.com/WP6CN60.png)
+1. Untuk Label, concern di space antar Kotak
+   ![](https://i.imgur.com/i0NRRJp.png)
+   ![](https://i.imgur.com/hPTH2jz.png)
+	1. Untuk text yg panjang auto di kecilin sizenya
+	2. Cut Component from Paper 1 - Nama Component → Paper 1 (ambil sebelum space -)
+	3. Cek Penamaan Programme Code
+	   ![](https://i.imgur.com/c71SF9o.png)
+2. Misclenous Label
+   ![](https://i.imgur.com/SUiGnvp.png)
+   ![](https://i.imgur.com/icrBGKR.png)
+   Take Out Setter & Vetter Column
+   Change Expert → Enclosed = isinya Nama Additional Component
+   Script Enclosed Jumlah yang diinput
+
 [[2025-11-13]]
-1. Extra Printing Request langsung d tambahin (ini sample KJ)
+3. Extra Printing Request langsung d tambahin (ini sample KJ)
    ![](https://i.imgur.com/efQTugJ.png)
    ![](https://i.imgur.com/razAxpA.png)
    disini masih 30
@@ -9,18 +42,19 @@
    Penambahan field Answer Sheet pada saat Printing request, sesuai dengan additional Component yg di set di SVE Component
    ![](https://i.imgur.com/DLPc0No.png)
    maka printing details akan kalkulasi dari sana, dan akan muncul kolom pada printing request
+3. Column yg muncul sesuai dengan additional Paper yg di tick di SVE Component
    ![](https://i.imgur.com/BWIYvVW.png)
    ![](https://i.imgur.com/5O7jz94.png)
-3. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
+4. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
    → sebelumnya kalo nilai term 1 selalu open kalo null, ga aware sama lock subject
 	1. Case: user: christly.pik | Primary 3 Initiative / Science | Liu Hehao
-4. Rename Label Printing Deadline → Printing Request Deadline
+5. Rename Label Printing Deadline → Printing Request Deadline
    ![](https://i.imgur.com/8qrmViK.png)
    ![](https://i.imgur.com/B2TNWot.png)
-5. Cek rootcause, daily_attendance double
+6. Cek rootcause, daily_attendance double
    ![](https://i.imgur.com/zJcjPzR.png)
    https://mattermost.klabs.dev/klabs/pl/ttiqqda8zbnafr9kixgdq8e9nc
-6. Impersonate for Admin Portal
+7. Impersonate for Admin Portal
    ![](https://i.imgur.com/JDiXR8v.png)
 
 	   
