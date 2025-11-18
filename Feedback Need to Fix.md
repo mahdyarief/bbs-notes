@@ -1,11 +1,20 @@
+[[2025-11-18]]
+1. Tambahkan filter academic Year, di header, dan by default filter current AY, di discipline report
+   ![](https://i.imgur.com/oogbzHT.png)
+   ![](https://i.imgur.com/83VflMn.png)
+2. ada fungsi di table, 
+   ![](https://i.imgur.com/d8FoDgP.png)
+   Tapi kalo di column, dia bisa nambah, tapi ga bisa hapus, untuk hapus column
+   ![](https://i.imgur.com/tLzSSD9.png)
+
 [[2025-11-17]]
-1. SVE Deadline Urutan, default urutan column, Assign → Printing Request  (Change Label from Printing Deadline to Printing Request Deadline) → Uploading → Timetable
-2. Delete row table di ga bisa di delete, dan di buat fungsi full screen si document editor
+2. SVE Deadline Urutan, default urutan column, Assign → Printing Request  (Change Label from Printing Deadline to Printing Request Deadline) → Uploading → Timetable
+3. Delete row table di ga bisa di delete, dan di buat fungsi full screen si document editor
    ![](https://i.imgur.com/CaQtV1E.png)
-3. Add SVE Report, another Report, 
+4. Add SVE Report, another Report, 
 	1. Printing Details ✅  
 	2. ❓ 
-4. Printing Details
+5. Printing Details
 	1. Add Tanggal cetak di footernya (Printed On)
 	2. Setiap halaman Ada header
 	3. Untuk Paper yg ada Insert, ditambahkan kolom baru di bawahnya langsung dengan pembeda, Level, Component
@@ -17,14 +26,14 @@
 	   ![](https://i.imgur.com/56yXAy2.png)
 	5. Report Title → Primary / Secondary FYE (Printing Details)
 	   ![](https://i.imgur.com/WP6CN60.png)
-1. Untuk Label, concern di space antar Kotak
+6. Untuk Label, concern di space antar Kotak
    ![](https://i.imgur.com/i0NRRJp.png)
    ![](https://i.imgur.com/hPTH2jz.png)
 	1. Untuk text yg panjang auto di kecilin sizenya
 	2. Cut Component from Paper 1 - Nama Component → Paper 1 (ambil sebelum space -)
 	3. Cek Penamaan Programme Code
 	   ![](https://i.imgur.com/c71SF9o.png)
-2. Misclenous Label
+7. Misclenous Label
    ![](https://i.imgur.com/SUiGnvp.png)
    ![](https://i.imgur.com/icrBGKR.png)
    Take Out Setter & Vetter Column
