@@ -1,8 +1,28 @@
+[[2025-11-21]]
+1. Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
+   Impact of this, calculating on attendance must be aware with student status
+2. Saat calculating attendance perlu aware student status, yg prospect jangan dihitung
+   ![](https://i.imgur.com/aF7gktx.png)
+
+
+[7:23 AM](https://mattermost.klabs.dev/klabs/pl/hyou3oyfopyj8cfhuftgjtq7he)
+
+issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report
+[[2025-11-19]]
+2. Saat Print schedule Papernya tidak muncul di jadwal
+   ![](https://i.imgur.com/assDlR4.png)
+   ![](https://i.imgur.com/xYz5FnL.png)
+   kalo ada Papernya
+   ![](https://i.imgur.com/5CE36uT.png)
+   Paper 1 = P1, Paper 2 = P2
+
+
+
 [[2025-11-18]]
-1. Tambahkan filter academic Year, di header, dan by default filter current AY, di discipline report
+2. Tambahkan filter academic Year, di header, dan by default filter current AY, di discipline report
    ![](https://i.imgur.com/oogbzHT.png)
    ![](https://i.imgur.com/83VflMn.png)
-2. ada fungsi di table, 
+3. ada fungsi di table, 
    ![](https://i.imgur.com/d8FoDgP.png)
    Tapi kalo di column, dia bisa nambah, tapi ga bisa hapus, untuk hapus column
    ![](https://i.imgur.com/tLzSSD9.png)
