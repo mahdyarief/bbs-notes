@@ -1,20 +1,31 @@
+[[2025-11-25]]
+1. Add function to clear set exam time on timetable, so can set time null again
+   ![](https://i.imgur.com/eaHr2hz.png)
+2. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
+
+[[2025-11-24]]
+2. Have issue grade locked, on term berjalan
+   ![](https://i.imgur.com/omkAYMI.png)
+
+3. 
 [[2025-11-21]]
-1. Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
+3. Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
    Impact of this, calculating on attendance must be aware with student status
-2. Saat calculating attendance perlu aware student status, yg prospect jangan dihitung
+4. Saat calculating attendance perlu aware student status, yg prospect jangan dihitung
    ![](https://i.imgur.com/aF7gktx.png)
 
 
 [7:23 AM](https://mattermost.klabs.dev/klabs/pl/hyou3oyfopyj8cfhuftgjtq7he)
-
-issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report
+	1. issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report
 [[2025-11-19]]
-2. Saat Print schedule Papernya tidak muncul di jadwal
+4. Saat Print schedule Papernya tidak muncul di jadwal
    ![](https://i.imgur.com/assDlR4.png)
    ![](https://i.imgur.com/xYz5FnL.png)
    kalo ada Papernya
    ![](https://i.imgur.com/5CE36uT.png)
    Paper 1 = P1, Paper 2 = P2
+   ![](https://i.imgur.com/APr9WlM.png)
+
 
 
 
@@ -261,7 +272,7 @@ Cover page Template
 7. Copy cover page from select academic year, do able on each cover paper, not generate all ✅  
 
 [[2025-09-10]]
-1. Ini edit double vv
+1. Ini edit double ✅  
    ![](https://i.imgur.com/hpuKRQu.png)
 2. Add info Level ✅  
    ![](https://i.imgur.com/6ANe2Zo.png)
