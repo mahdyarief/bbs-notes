@@ -1,12 +1,26 @@
+[[2025-12-10]]
+1. Make print out grade, aware with decimal
+   ![](https://i.imgur.com/T7o4SCq.png)
+   ![](https://i.imgur.com/cpLDse9.png)
+2. Make LO Grade setting aware decimal
+   ![](https://i.imgur.com/5VDl12S.png)
+
+
+[[2025-12-08]]
+2. add report with name Copy academic Transcript, Only use principal sign, get current academic year principal 
+   ![](https://i.imgur.com/O17NH7c.png)
+
+[[2025-12-05]]
+2. add attendance detail on semestral report P3-P6
 [[2025-12-03]]
-1. Add student classroom on export excel / Generate XLX in discipline report
+3. Add student classroom on export excel / Generate XLX in discipline report
    https://admin.smartbag.binabangsaschool.com/discipline?query=%7B%7D&pageSize=10&page=0&disciplineFormStatus=REPORTED&formType=DISCIPLINE_FORM
-2. Add classroom on UI system table, and add generate XLX on Tardiness
+4. Add classroom on UI system table, and add generate XLX on Tardiness
    https://admin.smartbag.binabangsaschool.com/tardiness?query=%7B%7D&pageSize=10&page=0&formType=TARDINESS_FORM
 [[2025-11-25]]
-3. Add function to clear set exam time on timetable, so can set time null again
+5. Add function to clear set exam time on timetable, so can set time null again
    ![](https://i.imgur.com/eaHr2hz.png)
-4. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
+6. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
 
 [[2025-11-24]]
 2. Have issue grade locked, on term berjalan
