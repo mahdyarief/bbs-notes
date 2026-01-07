@@ -1,17 +1,83 @@
+[[2025-12-15]]
+1. Adjust styling FTP Report ✅  
+   ![](https://i.imgur.com/kh5wIsj.png)
+
+[[2025-12-12]]
+2. Jumlah Absent di Discipline Overview detail tidak sesuai
+    https://admin.smartbag.binabangsaschool.com/discipline-overview?pageSize=10&page=0&academicYearId=26&programmeId=22&term=1
+    ![](https://i.imgur.com/WJmxVRa.png)
+    Lee Onyu - P 2 Faith (Issue on Term 1)
+    
+    select * from attendance a join class_year cy on a.class_year_id = cy.id where cy.academic_year_id = 26 and a.student_id = 100308 and a.attendance_status != '1'
+		a. Saat AY endnya pas sama tanggal telat, dia ga kebaca
+		![](https://i.imgur.com/IzsPMZz.png)
+2. Jumlah attendance di teacher tidak sesuai
+   ![](https://i.imgur.com/pGntiEs.png)
+   ![](https://i.imgur.com/Rp6rkcu.png)
+   ![](https://i.imgur.com/YgsjItX.png)
+   Hasil query bener ada 6 Absent in total, 
+   Term 1: 1 Late, 1 Absent W, 1 Absent W/O
+   Term 2: 0 Late, 3 Absent W, 1 Absent W/O
+   
+```
+select s.full_name ,
+
+--a.id,
+
+case when a.attendance_status = '2' then 'LATE'
+
+when a.attendance_status = '3' then 'ABSENT W'
+
+when a.attendance_status = '4' then 'ABSENT W/O'
+
+end,
+
+a.note,
+
+--a.is_first_inserted ,
+
+--da.id,
+
+da."date"
+
+from attendance a
+
+join class_year cy on a.class_year_id = cy.id
+
+join daily_attendance da on a.daily_attendance_id = da.id
+
+join student s on s.id = a.student_id
+
+where cy.academic_year_id = 26
+
+and a.student_id = 100308
+
+and a.attendance_status != '1'
+
+and a.deleted_at is null
+
+order by da."date"
+```
+
+   
+
+
+    
+    
 [[2025-12-10]]
-1. Make print out grade, aware with decimal
+3. Make print out grade, aware with decimal ✅  
    ![](https://i.imgur.com/T7o4SCq.png)
    ![](https://i.imgur.com/cpLDse9.png)
-2. Make LO Grade setting aware decimal
+4. Make LO Grade setting aware decimal ✅  
    ![](https://i.imgur.com/5VDl12S.png)
 
 
 [[2025-12-08]]
-2. add report with name Copy academic Transcript, Only use principal sign, get current academic year principal 
+2. Add report with name Copy academic Transcript, Only use principal sign, get current academic year principal 
    ![](https://i.imgur.com/O17NH7c.png)
 
 [[2025-12-05]]
-2. add attendance detail on semestral report P3-P6
+2. add attendance detail on semestral report P3-P6 ✅  
 [[2025-12-03]]
 3. Add student classroom on export excel / Generate XLX in discipline report
    https://admin.smartbag.binabangsaschool.com/discipline?query=%7B%7D&pageSize=10&page=0&disciplineFormStatus=REPORTED&formType=DISCIPLINE_FORM
@@ -23,14 +89,14 @@
 6. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
 
 [[2025-11-24]]
-2. Have issue grade locked, on term berjalan
+2. Have issue grade locked, on term berjalan 
    ![](https://i.imgur.com/omkAYMI.png)
 
 3. 
 [[2025-11-21]]
 3. Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
    Impact of this, calculating on attendance must be aware with student status
-4. Saat calculating attendance perlu aware student status, yg prospect jangan dihitung
+4. Saat calculating attendance perlu aware student status, yg student statusnya current
    ![](https://i.imgur.com/aF7gktx.png)
 
 
@@ -64,7 +130,7 @@
 4. Add SVE Report, another Report, 
 	1. Printing Details ✅  
 	2. ❓ 
-5. Printing Details
+5. Printing Details **(Ongoing)** ❗ 
 	1. Add Tanggal cetak di footernya (Printed On)
 	2. Setiap halaman Ada header
 	3. Untuk Paper yg ada Insert, ditambahkan kolom baru di bawahnya langsung dengan pembeda, Level, Component
@@ -91,17 +157,17 @@
    Script Enclosed Jumlah yang diinput
 
 [[2025-11-13]]
-3. Extra Printing Request langsung d tambahin (ini sample KJ)
+3. Extra Printing Request langsung d tambahin (ini sample KJ) **(Ongoing)** ❗ 
    ![](https://i.imgur.com/efQTugJ.png)
    ![](https://i.imgur.com/razAxpA.png)
    disini masih 30
 
 [[2025-11-11]]
-2. Printing Details SVE
+2. Printing Details SVE **(Ongoing)** ❗ 
    Penambahan field Answer Sheet pada saat Printing request, sesuai dengan additional Component yg di set di SVE Component
    ![](https://i.imgur.com/DLPc0No.png)
    maka printing details akan kalkulasi dari sana, dan akan muncul kolom pada printing request
-3. Column yg muncul sesuai dengan additional Paper yg di tick di SVE Component
+3. Column yg muncul sesuai dengan additional Paper yg di tick di SVE Component **(Ongoing)** ❗ 
    ![](https://i.imgur.com/BWIYvVW.png)
    ![](https://i.imgur.com/5O7jz94.png)
 4. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
@@ -170,9 +236,6 @@
 4. Pagination pagenya, ga ada di file sharing academic departments, replace pake component table yg di pake sama SOW, ini masih pake bbs table yg lama
    dan tambahkan departementnya di table, jadi fileName | AcademicDepartment ❗ 
    ![](https://i.imgur.com/lIUTgaZ.png)
-   
-
-
 
 [[2025-10-06]]
 2. Daily attendance, not complete, akun maria rhea. udh di cek semua tapi ga complete, ini case apaan yg ga kehandle ya ✅  
