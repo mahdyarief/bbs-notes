@@ -1,5 +1,7 @@
+[[2026-01-08]]
+1. Pupil particular, student admited, jangan ambil dari current classyear, tapi dari class history yg paling lama
 [[2025-12-15]]
-1. Adjust styling FTP Report ✅  
+2. Adjust styling FTP Report ✅  
    ![](https://i.imgur.com/kh5wIsj.png)
 
 [[2025-12-12]]
