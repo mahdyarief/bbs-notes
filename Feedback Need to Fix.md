@@ -5,18 +5,19 @@
    ![](https://i.imgur.com/kh5wIsj.png)
 
 [[2025-12-12]]
-2. Jumlah Absent di Discipline Overview detail tidak sesuai
+2. Jumlah Absent di Discipline Overview detail tidak sesuai (**Attendance**)
     https://admin.smartbag.binabangsaschool.com/discipline-overview?pageSize=10&page=0&academicYearId=26&programmeId=22&term=1
     ![](https://i.imgur.com/WJmxVRa.png)
-    Lee Onyu - P 2 Faith (Issue on Term 1)
+    Lee Onyu - P 2 Faith (Issue on Term 1) | ADAM YUMA ARDENTO	Primary 2 Faith (BPN)  -     
     
     select * from attendance a join class_year cy on a.class_year_id = cy.id where cy.academic_year_id = 26 and a.student_id = 100308 and a.attendance_status != '1'
-		a. Saat AY endnya pas sama tanggal telat, dia ga kebaca
+		a. Saat AY endnya pas sama tanggal telat, dia ga kebaca **(Attendance)**
 		![](https://i.imgur.com/IzsPMZz.png)
-2. Jumlah attendance di teacher tidak sesuai
+2. Jumlah attendance di teacher tidak sesuai (**Attendance**)
    ![](https://i.imgur.com/pGntiEs.png)
    ![](https://i.imgur.com/Rp6rkcu.png)
    ![](https://i.imgur.com/YgsjItX.png)
+   https://analytics.binabangsaschool.dev/dashboard/35-absent-late-check?ay=26&date=&nama=
    Hasil query bener ada 6 Absent in total, 
    Term 1: 1 Late, 1 Absent W, 1 Absent W/O
    Term 2: 0 Late, 3 Absent W, 1 Absent W/O
@@ -61,16 +62,15 @@ and a.deleted_at is null
 order by da."date"
 ```
 
-   
+3. Attendance Detail di teacher, suka datanya ga ke load, jadi 0 semua (Reporducenya, Refresh sampe data ga ke load) (Attendance)
+   ![](https://i.imgur.com/Xfo09Ci.png)
 
-
-    
     
 [[2025-12-10]]
-3. Make print out grade, aware with decimal ✅  
+4. Make print out grade, aware with decimal ✅  
    ![](https://i.imgur.com/T7o4SCq.png)
    ![](https://i.imgur.com/cpLDse9.png)
-4. Make LO Grade setting aware decimal ✅  
+5. Make LO Grade setting aware decimal ✅  
    ![](https://i.imgur.com/5VDl12S.png)
 
 
@@ -96,11 +96,23 @@ order by da."date"
 
 3. 
 [[2025-11-21]]
-3. Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
-   Impact of this, calculating on attendance must be aware with student status
 4. Saat calculating attendance perlu aware student status, yg student statusnya current
    ![](https://i.imgur.com/aF7gktx.png)
+   case withdrawn masih ada di list
+   ![](https://i.imgur.com/tnjIboO.png)
+   ![](https://i.imgur.com/DEOO4oE.png)
+   TO BE,
+   - Unmark hanya aware yg statusnya current
+   - Student List yang statusnya tidak current, di beri informasi status student dan disable input status action
+     ![](https://i.imgur.com/ZHZGeQM.png)
+3. Status complete incomplete, bingungin
+   ![](https://i.imgur.com/5KUJcg4.png)
+   ###### Campus KJ TEST PRIMARY ###### Level Primary 3
 
+
+
+// Enhancement delete student from class in year, untuk enhancement, kalo bisa pas delete student dari kelasnya, jangan delete row di class year student2, tapi set statusnya jadi prospect dan current classyearnya di null in, karena jejaknya jadi ilang,
+   Impact of this, calculating on attendance must be aware with student status 
 
 [7:23 AM](https://mattermost.klabs.dev/klabs/pl/hyou3oyfopyj8cfhuftgjtq7he)
 	1. issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report
