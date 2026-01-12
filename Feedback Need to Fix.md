@@ -103,9 +103,7 @@ order by da."date"
    ![](https://i.imgur.com/DEOO4oE.png)
    TO BE,
    - Unmark hanya aware yg statusnya current
-   - Student List yang statusnya tidak current, di beri informasi status student dan disable input status action
-     ![](https://i.imgur.com/ZHZGeQM.png)
-3. Status complete incomplete, bingungin
+3. Status complete incomplete, bingungin, karena udh di set mark all student, all student present, tetapi statusnya tetep incomplete, test di 
    ![](https://i.imgur.com/5KUJcg4.png)
    ###### Campus KJ TEST PRIMARY ###### Level Primary 3
 
