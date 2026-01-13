@@ -75,7 +75,7 @@ order by da."date"
 
 
 [[2025-12-08]]
-2. Add report with name Copy academic Transcript, Only use principal sign, get current academic year principal 
+2. Add report with name Copy academic Transcript, Only use principal sign, get current academic year principal → Requested but Need approval
    ![](https://i.imgur.com/O17NH7c.png)
 
 [[2025-12-05]]
@@ -91,7 +91,7 @@ order by da."date"
 6. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
 
 [[2025-11-24]]
-2. Have issue grade locked, on term berjalan 
+2. Have issue grade locked for subject scoring, on term berjalan, seharusnya saat nilai -kosong di term 1 dan sekarang term 2, maka saat di term 2 tetap bisa mengisi nilai term 1 dan 2, dan bisa diisi lagi saat grade di unlock 
    ![](https://i.imgur.com/omkAYMI.png)
 
 3. 
@@ -113,14 +113,16 @@ order by da."date"
    Impact of this, calculating on attendance must be aware with student status 
 
 [7:23 AM](https://mattermost.klabs.dev/klabs/pl/hyou3oyfopyj8cfhuftgjtq7he)
-	1. issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report
+	1. issue double name student udh fix semua harusnya di primary, jadi ga nunggu by report ✅  
 [[2025-11-19]]
-4. Saat Print schedule Papernya tidak muncul di jadwal
+4. Saat Print schedule Papernya tidak muncul di jadwal ❗ 
    ![](https://i.imgur.com/assDlR4.png)
    ![](https://i.imgur.com/xYz5FnL.png)
    kalo ada Papernya
    ![](https://i.imgur.com/5CE36uT.png)
-   Paper 1 = P1, Paper 2 = P2
+   Paper 1 = P1, Paper 2 = P2, ambil nama papernya di masukin ke jadwal
+   ![](https://i.imgur.com/BLlKJ7J.png)
+
    ![](https://i.imgur.com/APr9WlM.png)
 
 
@@ -130,7 +132,7 @@ order by da."date"
 2. Tambahkan filter academic Year, di header, dan by default filter current AY, di discipline report
    ![](https://i.imgur.com/oogbzHT.png)
    ![](https://i.imgur.com/83VflMn.png)
-3. ada fungsi di table, 
+3. Tambahkan ada fungsi di table, pada sve cover template, untuk bisa design table 
    ![](https://i.imgur.com/d8FoDgP.png)
    Tapi kalo di column, dia bisa nambah, tapi ga bisa hapus, untuk hapus column
    ![](https://i.imgur.com/tLzSSD9.png)
@@ -182,7 +184,7 @@ order by da."date"
 3. Column yg muncul sesuai dengan additional Paper yg di tick di SVE Component **(Ongoing)** ❗ 
    ![](https://i.imgur.com/BWIYvVW.png)
    ![](https://i.imgur.com/5O7jz94.png)
-4. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya → **need kevin**
+4. Nilai term 2 keunlock, saat nilai term 1 belum diisi, tapi saat ke term 1nya ga ke unlock, perlu di unlock subjectnya 
    → sebelumnya kalo nilai term 1 selalu open kalo null, ga aware sama lock subject
 	1. Case: user: christly.pik | Primary 3 Initiative / Science | Liu Hehao
 5. Rename Label Printing Deadline → Printing Request Deadline
@@ -245,7 +247,7 @@ order by da."date"
    ![](https://i.imgur.com/u84DXqu.png)
    but when check no student selected, it make lesson cant delete
    ![](https://i.imgur.com/cUPEqib.png)
-4. Pagination pagenya, ga ada di file sharing academic departments, replace pake component table yg di pake sama SOW, ini masih pake bbs table yg lama
+4. pada halaman file sharing, academic department, Pagination pagenya, ga ada di file sharing academic departments, replace pake component table yg di pake sama SOW, ini masih pake bbs table yg lama
    dan tambahkan departementnya di table, jadi fileName | AcademicDepartment ❗ 
    ![](https://i.imgur.com/lIUTgaZ.png)
 
@@ -272,7 +274,7 @@ order by da."date"
 3. Value on dicipline overview ngaco, tapi di detailnya bener, di teacher di attendance summary juga salah, (impact on admin and teacher) ✅  
    ![](https://i.imgur.com/je9aHPK.png)
    ![](https://i.imgur.com/UPhnBYd.png)
-4. Di LO saat diiisi nilai 0, di ga ngebaca BDCPnya
+4. Di penilaian LO (Learning Outcome) saat diiisi nilai 0, di ga ngebaca BDCPnya, harusnya ngisi Beginning
    ![](https://i.imgur.com/7QnPt6b.png)
 
 
@@ -298,7 +300,7 @@ PIK, KJ, MLG, SMG, BDG, BPN
    ![](https://i.imgur.com/9dssdK9.png)
 3. Epic Moment
    ![](https://i.imgur.com/EN4pSRV.png)
-4. Template e-report dan print report di term 1 dan 3 ga sama templatenya
+4. Template e-report dan print report di term 1 dan 3 ga sama templatenya ✅  
    **LO Report**
    E-Report
    ![](https://i.imgur.com/U9jymSF.png)
@@ -313,8 +315,6 @@ PIK, KJ, MLG, SMG, BDG, BPN
    ![](https://i.imgur.com/xLVWwoh.png)
 6. Add default Value when create cca Grade setting to, 16,11,7,2 on each term
    ![](https://i.imgur.com/rnXpXxr.png)
-
-
 
 
 [[2025-09-22]]
