@@ -31,8 +31,8 @@ Formula
 ![](https://i.imgur.com/XIo4RWd.png)
 ![](https://i.imgur.com/p6njtdE.png)
 
-AS Average:
-paper_component: (25 / Total Mark (Highest Year) * 100) * (weighted/100) → ambil dari threshold weight
+**AS Average:**
+paper_component: (25 (Input Nilai) / Total Mark (Highest Year) * 100) * (weighted/100) → ambil dari threshold weight
 ∑ per component * active paper weighted
 ![](https://i.imgur.com/xY34RTM.png)
 
@@ -67,3 +67,75 @@ Prelims Predicted Grade Setting → Campus (Default Disable) → enum sejumlah t
 
 Contoh cover yg paling panjang untuk secondary
 ![](https://i.imgur.com/IJU2BYT.png)
+
+
+
+Core Subject → 
+
+Secondary no FTP
+
+Objective Report Secondary:
+Term 1 → End of April
+AS Prelim → End February
+GPA Report November → End of March
+Semester 1
+Term 3
+A Level Prelim → End February
+IGCSE →  End February
+Semester 2
+Leaps Report → End April
+GPA Report June → End April
+National Report → End Mei
+
+NewBBS2025!
+
+Computer Science (9045) → Set A Level on Cambridge
+
+Paper 1 A/S 
+Paper 2 A/S 
+Paper 3 A2
+Paper 4 A2
+
+![](https://i.imgur.com/eRn9Kn5.png)
+
+
+NewBBS2026!
+
+![](https://i.imgur.com/RzEjz6S.png)
+![](https://i.imgur.com/bUFvhxg.png)
+
+
+Report AS Prelims
+
+Prelim → Ada di JC2 (Term 2)
+IGCS → Ada di Sec 4 (Term 4)
+
+![](https://i.imgur.com/QqJ9dem.png)
+
+Hard code (9868) 
+Mark dari PUM
+![](https://i.imgur.com/fWFkjx8.png)
+
+Range Guide, will fix, but difference every A / AS / IGCSE
+
+![](https://i.imgur.com/Gsd1sNb.png)
+
+![](https://i.imgur.com/JDMX7eW.png)
+
+
+Penamaan Satisfactory, PIK punya discipline sendiri (Later)
+
+![](https://i.imgur.com/BUvanaZ.png)
+
+![](https://i.imgur.com/MniWy2Y.png)
+
+Title 
+![](https://i.imgur.com/oY9uSCg.png)
+September {currentAY}
+
+![](https://i.imgur.com/DeAZ2VI.png)
+
+Maks Subject 6 Subject → AS 
+10 Subject → IGCSE
+
+A4 Paper

@@ -1,7 +1,50 @@
+![](https://i.imgur.com/u3jLaUl.png)
+ada case, setternya 2, (ini perlu di tindaklanjuti)
+![](https://i.imgur.com/9fxNZvr.png)
+
+
+![](https://i.imgur.com/9bj4DII.png)
+
+
+Saat create new component, set default di 
+![](https://i.imgur.com/buycYRC.png)
+
+jumlah insertmasih blum muncul
+
+MCQ & MF19 hanya untuk secondary → 
+Insert tidak perlu di printing request, jumlahnya selalu sama dengan question paper + extra, tergantung file upload
+
+Answer sheet selalu sama dengan Question paper
+
+Teacher paper selalu 8 x kampus yang request question paper
+take out level dari chinese
+
+Label order by 
+Level
+Subject
+Component
+
+MISCELLANEOUS:
+Answer Sheet
+Teacher Paper
+
+Label Late Printing, digabungin semua
+
+File download langsung d naming
+AY Session Primary/Secondary Junior College File name  
+e.g.: 2526_FYE Primary_Timetable or 2526_FYE Primary_HOD Label
+
 [[2026-01-08]]
 1. Pupil particular, student admited, jangan ambil dari current classyear, tapi dari class history yg paling lama
+   ![](https://i.imgur.com/uUqwQFZ.png)
+   ![](https://i.imgur.com/cFJ2zhU.png)
+   ![](https://i.imgur.com/Wkb4Bk9.png)
+
+
+
+2. 
 [[2025-12-15]]
-2. Adjust styling FTP Report ✅  
+3. Adjust styling FTP Report ✅  
    ![](https://i.imgur.com/kh5wIsj.png)
 
 [[2025-12-12]]
@@ -85,9 +128,14 @@ order by da."date"
    https://admin.smartbag.binabangsaschool.com/discipline?query=%7B%7D&pageSize=10&page=0&disciplineFormStatus=REPORTED&formType=DISCIPLINE_FORM
 4. Add classroom on UI system table, and add generate XLX on Tardiness
    https://admin.smartbag.binabangsaschool.com/tardiness?query=%7B%7D&pageSize=10&page=0&formType=TARDINESS_FORM
+   ![](https://i.imgur.com/GHiHmro.png)
+
 [[2025-11-25]]
 5. Add function to clear set exam time on timetable, so can set time null again
+   ![](https://i.imgur.com/l6er3LC.png)
    ![](https://i.imgur.com/eaHr2hz.png)
+   ![](https://i.imgur.com/yuKky91.png)
+
 6. List Bug BBS https://docs.google.com/spreadsheets/d/1FJXruGdBUqPaZ7pzBq4lUbjz1kyiufgyz118sdYiKdk/edit?gid=0#gid=0
 
 [[2025-11-24]]
@@ -131,6 +179,8 @@ order by da."date"
 [[2025-11-18]]
 2. Tambahkan filter academic Year, di header, dan by default filter current AY, di discipline report
    ![](https://i.imgur.com/oogbzHT.png)
+   ![](https://i.imgur.com/8I87VMf.png)
+
    ![](https://i.imgur.com/83VflMn.png)
 3. Tambahkan ada fungsi di table, pada sve cover template, untuk bisa design table 
    ![](https://i.imgur.com/d8FoDgP.png)

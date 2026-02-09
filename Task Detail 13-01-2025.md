@@ -596,3 +596,17 @@
     - Backend: return proper flags per subject/component.
         
     - Test: subject with no insert, subject with insert, mixed list.
+
+
+
+5 Allow users to **clear/reset exam time to null** in Timetable after it has been set.
+7 Ensure **Paper (P1/P2)** appears correctly in **Print Schedule**, derived from paper name.
+10 Set SVE Deadline default column order and rename **Printing Deadline → Printing Request Deadline** consistently.
+23 Add **page number + generated timestamp** on SVE Timetable PDF output.
+
+
+
+3 Include **Student Classroom** in **Discipline Report** Excel export (Generate XLSX).
+4 Display **Classroom** in **Tardiness** UI table and add **Generate XLSX** export for Tardiness.
+6/14/20 Fix **grade lock/unlock** logic so users can fill **Term 1 and Term 2** appropriately across terms, including after unlock.
+8 Add **Academic Year filter** in Discipline Report header with default to **current AY**.

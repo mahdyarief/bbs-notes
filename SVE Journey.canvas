@@ -1,1743 +1,1519 @@
 {
-  "edges": [
-    {
-      "fromNode": "b67bcdb46b9d16b8",
-      "fromSide": "right",
-      "id": "cfd25291764cc216",
-      "label": "Vetter Annotator",
-      "styleAttributes": {
-      },
-      "toNode": "aa5ffd232cdccd5d",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "47aa7e79de548128",
-      "fromSide": "right",
-      "id": "91201ade30a0dfac",
-      "label": "Setter Upload",
-      "styleAttributes": {
-      },
-      "toNode": "27a06dfc5b7fd19b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "47aa7e79de548128",
-      "fromSide": "right",
-      "id": "2c4d1c7b05eba91b",
-      "label": "Vetter Upload",
-      "styleAttributes": {
-      },
-      "toNode": "f69c6eb9a3bfdb94",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b67bcdb46b9d16b8",
-      "fromSide": "right",
-      "id": "bc887a36a4e4d972",
-      "label": "Vetter Annotator",
-      "styleAttributes": {
-      },
-      "toNode": "fcafdeea52da2a87",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "1255ac739966746a",
-      "fromSide": "right",
-      "id": "89dba6df29e9e1ab",
-      "label": "Vetter Upload",
-      "styleAttributes": {
-      },
-      "toNode": "bf30ddbd8857009e",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "1255ac739966746a",
-      "fromSide": "right",
-      "id": "8c3756becd922ab5",
-      "label": "Setter Upload",
-      "styleAttributes": {
-      },
-      "toNode": "84cdd8bb475d0ae9",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "84cdd8bb475d0ae9",
-      "fromSide": "left",
-      "id": "48c01ca0703997a4",
-      "styleAttributes": {
-      },
-      "toNode": "dac0d1fd873df25d",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "9ed04c573bfa5ce7",
-      "fromSide": "right",
-      "id": "9d9ca6a9deb74d2a",
-      "label": "Expert Annotator",
-      "styleAttributes": {
-      },
-      "toNode": "51a938996acabd4d",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "aa5ffd232cdccd5d",
-      "fromSide": "right",
-      "id": "65275b34c460ba58",
-      "styleAttributes": {
-      },
-      "toNode": "1255ac739966746a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "27a06dfc5b7fd19b",
-      "fromSide": "right",
-      "id": "6cb63b821712f965",
-      "styleAttributes": {
-      },
-      "toNode": "b67bcdb46b9d16b8",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "51a938996acabd4d",
-      "fromSide": "right",
-      "id": "76cb60af21cfea0d",
-      "styleAttributes": {
-      },
-      "toNode": "cecb1ea76e7fa34a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "9ed04c573bfa5ce7",
-      "fromSide": "right",
-      "id": "e4beb0801095c3b6",
-      "styleAttributes": {
-      },
-      "toNode": "21eecd35df3f0784",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "fcafdeea52da2a87",
-      "fromSide": "right",
-      "id": "25417a7267e47892",
-      "styleAttributes": {
-      },
-      "toNode": "9ed04c573bfa5ce7",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "f69c6eb9a3bfdb94",
-      "fromSide": "right",
-      "id": "fb52c4ded141cc4f",
-      "styleAttributes": {
-      },
-      "toNode": "2202132fc063c50d",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "4b49b75a0c54e0c0",
-      "fromSide": "right",
-      "id": "65ce34d93a474ebf",
-      "styleAttributes": {
-      },
-      "toNode": "27bcad5cb031795c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "4b49b75a0c54e0c0",
-      "fromSide": "right",
-      "id": "22c546baba286b7e",
-      "styleAttributes": {
-      },
-      "toNode": "75a4a2b471347596",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "6146a955eb41d4ca",
-      "fromSide": "right",
-      "id": "060265b7d5202cff",
-      "styleAttributes": {
-      },
-      "toNode": "483430d90da83758",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "f0f47e3d274f9432",
-      "fromSide": "right",
-      "id": "aa4624d7fbb17d37",
-      "styleAttributes": {
-      },
-      "toNode": "d441f3cd57d65917",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "483430d90da83758",
-      "fromSide": "bottom",
-      "id": "0e13e297759cd7b7",
-      "styleAttributes": {
-      },
-      "toNode": "d441f3cd57d65917",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "4b49b75a0c54e0c0",
-      "fromSide": "left",
-      "id": "7fbd8b53d57360bf",
-      "styleAttributes": {
-      },
-      "toNode": "65be24b540eedf4f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "48a7da6387e7f259",
-      "fromSide": "left",
-      "id": "e4b385c31331bab9",
-      "styleAttributes": {
-      },
-      "toNode": "65be24b540eedf4f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "65be24b540eedf4f",
-      "fromSide": "left",
-      "id": "b53e555cb0427ca2",
-      "label": "Paper Type Additional",
-      "styleAttributes": {
-      },
-      "toNode": "b6f400ff9befca2f",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "65be24b540eedf4f",
-      "fromSide": "bottom",
-      "id": "ae1de624e8c24def",
-      "label": "Paper Type Default",
-      "styleAttributes": {
-      },
-      "toNode": "6b1841e3f92684cb",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "b6f400ff9befca2f",
-      "fromSide": "bottom",
-      "id": "bf694d5d4005178e",
-      "label": "If Exist",
-      "styleAttributes": {
-      },
-      "toNode": "6b1841e3f92684cb",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "bdfe15b54045d2ac",
-      "fromSide": "right",
-      "id": "9def8ab6c463d67d",
-      "styleAttributes": {
-      },
-      "toNode": "483430d90da83758",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "267ad3f55faa3565",
-      "fromSide": "right",
-      "id": "0f6358ae94cde00c",
-      "styleAttributes": {
-      },
-      "toNode": "483430d90da83758",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d3c62a44c3975387",
-      "fromSide": "right",
-      "id": "4d96982e4dd4c3c6",
-      "styleAttributes": {
-      },
-      "toNode": "d65f771bf1369fde",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "39d69877b07bc8f6",
-      "fromSide": "right",
-      "id": "ca1d1cca84d58220",
-      "styleAttributes": {
-      },
-      "toNode": "5cf60b1b675bd0cb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "5a493867ee5154b6",
-      "fromSide": "right",
-      "id": "5a9b2d669295c925",
-      "styleAttributes": {
-      },
-      "toNode": "d65f771bf1369fde",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d65f771bf1369fde",
-      "fromSide": "bottom",
-      "id": "883074de00a6bd74",
-      "styleAttributes": {
-      },
-      "toNode": "5cf60b1b675bd0cb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "bca7f331937a3430",
-      "fromSide": "left",
-      "id": "392b2452be7aff74",
-      "label": "Paper Type Additional",
-      "styleAttributes": {
-      },
-      "toNode": "abbb23a4a3163fb9",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "d65f771bf1369fde",
-      "fromSide": "right",
-      "id": "ad818ed0a5dfad25",
-      "styleAttributes": {
-      },
-      "toNode": "abbb23a4a3163fb9",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "657be433de19b9f1",
-      "fromSide": "right",
-      "id": "f257ceb636ea3fff",
-      "label": "Aware when Change Adds Paper",
-      "styleAttributes": {
-        "path": "long-dashed"
-      },
-      "toNode": "6b1841e3f92684cb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "a2b41df071076a53",
-      "fromSide": "right",
-      "id": "87bf457c2eaa5570",
-      "styleAttributes": {
-      },
-      "toNode": "657be433de19b9f1",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "5cf60b1b675bd0cb",
-      "fromSide": "bottom",
-      "id": "453b37432fe82192",
-      "styleAttributes": {
-      },
-      "toNode": "657be433de19b9f1",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "324a7f4960b95a7b",
-      "fromSide": "left",
-      "id": "f54ecddbf39bd880",
-      "styleAttributes": {
-      },
-      "toNode": "65be24b540eedf4f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "6b1841e3f92684cb",
-      "fromSide": "bottom",
-      "id": "68be79e25f2898bc",
-      "styleAttributes": {
-      },
-      "toNode": "25cc45ee3e46284f",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "e06a0ff6da7cd66a",
-      "fromSide": "left",
-      "id": "830bedcff8fb94b8",
-      "styleAttributes": {
-      },
-      "toNode": "55fd129221ca7f7a",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "d441f3cd57d65917",
-      "fromSide": "right",
-      "id": "b75cea6aaa81b594",
-      "styleAttributes": {
-      },
-      "toNode": "6b1841e3f92684cb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d441f3cd57d65917",
-      "fromSide": "right",
-      "id": "4ae7ff9a22c42203",
-      "styleAttributes": {
-      },
-      "toNode": "9338bbfec6db848e",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b5bf4c822df51938",
-      "fromSide": "bottom",
-      "id": "b8a7f24092112aed",
-      "label": "Is_Insert: False",
-      "styleAttributes": {
-      },
-      "toNode": "6ef85d0bfceebc5b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "55fd129221ca7f7a",
-      "fromSide": "left",
-      "id": "3fe10ca7255fdd1d",
-      "label": "Is_Insert: False",
-      "styleAttributes": {
-      },
-      "toNode": "b5bf4c822df51938",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "55fd129221ca7f7a",
-      "fromSide": "bottom",
-      "id": "1d43302bebbf7b8c",
-      "label": "Is_Insert: True",
-      "styleAttributes": {
-      },
-      "toNode": "ce6d9af42cfbbb48",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "ce6d9af42cfbbb48",
-      "fromSide": "right",
-      "id": "df12843298fcba23",
-      "label": "Is_Insert: True",
-      "styleAttributes": {
-      },
-      "toNode": "6ef85d0bfceebc5b",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "1feebd370f3f69f8",
-      "fromSide": "right",
-      "id": "124f30bb38b45b70",
-      "styleAttributes": {
-      },
-      "toNode": "b5bf4c822df51938",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "1feebd370f3f69f8",
-      "fromSide": "right",
-      "id": "ad5933517b7c328c",
-      "label": "Has_Insert",
-      "styleAttributes": {
-        "path": "short-dashed"
-      },
-      "toNode": "ce6d9af42cfbbb48",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "5be48100b85e5648",
-      "fromSide": "right",
-      "id": "029153ad95d28952",
-      "styleAttributes": {
-      },
-      "toNode": "963d9a60639c0d4c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "963d9a60639c0d4c",
-      "fromSide": "bottom",
-      "id": "1ea8a8c093c223d3",
-      "styleAttributes": {
-      },
-      "toNode": "562e0ec0e4250bb9",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "2062fb6b271cd8c0",
-      "fromSide": "right",
-      "id": "3f1aa7ff40fa5d95",
-      "styleAttributes": {
-      },
-      "toNode": "e4a65494b9d13a6c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "562e0ec0e4250bb9",
-      "fromSide": "right",
-      "id": "dd26315e05a33e89",
-      "styleAttributes": {
-      },
-      "toNode": "6e9789139cdc335b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "62afa791b96f486d",
-      "fromSide": "right",
-      "id": "c6ef5fa3bb5d699c",
-      "label": "Before Due Date",
-      "styleAttributes": {
-      },
-      "toNode": "5be48100b85e5648",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "62afa791b96f486d",
-      "fromSide": "right",
-      "id": "d7ab667ef748204f",
-      "label": "After Due Date",
-      "styleAttributes": {
-      },
-      "toNode": "11ad0ba7b3003ba1",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "11ad0ba7b3003ba1",
-      "fromSide": "right",
-      "id": "4c2970fe081a8e2c",
-      "styleAttributes": {
-      },
-      "toNode": "065c9e7acce28ed6",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "065c9e7acce28ed6",
-      "fromSide": "top",
-      "id": "9bc8dad6ea0ea04d",
-      "styleAttributes": {
-      },
-      "toNode": "f03c0c664b47eb08",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "74bd7aa0e3dfc06b",
-      "fromSide": "right",
-      "id": "b14d56626add2563",
-      "styleAttributes": {
-      },
-      "toNode": "c4284b1b7c95b85b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "dd6e3c95d2688ce4",
-      "fromSide": "left",
-      "id": "a666985db848945b",
-      "styleAttributes": {
-      },
-      "toNode": "25cc45ee3e46284f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "5b26d250794b8d75",
-      "fromSide": "right",
-      "id": "305567bebdea17b3",
-      "styleAttributes": {
-      },
-      "toNode": "055e9e1dd3e2db9c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "c664f20a81610831",
-      "fromSide": "right",
-      "id": "718f690c56d4dc3c",
-      "styleAttributes": {
-      },
-      "toNode": "055e9e1dd3e2db9c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "055e9e1dd3e2db9c",
-      "fromSide": "right",
-      "id": "73dfae8e0caa6721",
-      "label": "Create / Update Data",
-      "styleAttributes": {
-      },
-      "toNode": "503a58d2dc21e8ed",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b8a649462fd7a27c",
-      "fromSide": "left",
-      "id": "c1d14405e8668abe",
-      "styleAttributes": {
-      },
-      "toNode": "5b26d250794b8d75",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "fbb8ec9077ab1760",
-      "fromSide": "right",
-      "id": "cb22f53b01dd6d1f",
-      "styleAttributes": {
-      },
-      "toNode": "272ed2e5b04d6b55",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "a7c232f25df049c8",
-      "fromSide": "right",
-      "id": "6213cd31f13449ff",
-      "styleAttributes": {
-      },
-      "toNode": "10e7dba972ff680b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "cf4223cfc888a602",
-      "fromSide": "top",
-      "id": "7abe9f2902f9b71e",
-      "styleAttributes": {
-        "path": "long-dashed"
-      },
-      "toNode": "6b1841e3f92684cb",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "0d2db3b3aa8bf9fc",
-      "fromSide": "right",
-      "id": "2b807c958bb851a1",
-      "styleAttributes": {
-      },
-      "toNode": "0a872dec2d38d8e3",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "e7f9affc11e1ae7d",
-      "fromSide": "top",
-      "id": "1154c140362f01dc",
-      "styleAttributes": {
-        "path": "short-dashed"
-      },
-      "toNode": "a17cbb46772761b0",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "c4284b1b7c95b85b",
-      "fromSide": "right",
-      "id": "c946a4a03a24b300",
-      "styleAttributes": {
-      },
-      "toNode": "c060f566f89b84d3",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d441f3cd57d65917",
-      "fromSide": "bottom",
-      "id": "576f4a3eeb401602",
-      "styleAttributes": {
-      },
-      "toNode": "fea65292da487c3a",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "e4a65494b9d13a6c",
-      "fromSide": "bottom",
-      "id": "1c6da53d9003c709",
-      "styleAttributes": {
-      },
-      "toNode": "9fc1ba5168083416",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "483430d90da83758",
-      "fromSide": "right",
-      "id": "0a054ab4c55d6258",
-      "label": "Enhance Duplicate Method",
-      "styleAttributes": {
-      },
-      "toNode": "b6f400ff9befca2f",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {
-  },
-  "nodes": [
-    {
-      "height": 3120,
-      "id": "2062fb6b271cd8c0",
-      "label": "SVE Main Function",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 5400,
-      "x": -4200,
-      "y": 320
-    },
-    {
-      "height": 830,
-      "id": "c4cf710fff97b8cd",
-      "label": "Use SVE Component",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1550,
-      "x": -3760,
-      "y": 2000
-    },
-    {
-      "height": 550,
-      "id": "478db03af8de9592",
-      "label": "Existing Flow",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 800,
-      "x": -2320,
-      "y": 1380
-    },
-    {
-      "height": 940,
-      "id": "c4284b1b7c95b85b",
-      "label": "Exam Printing & Printing Request",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1700,
-      "x": 2560,
-      "y": 1700
-    },
-    {
-      "height": 910,
-      "id": "c060f566f89b84d3",
-      "label": "Print Label",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1663,
-      "x": 4800,
-      "y": 1715
-    },
-    {
-      "height": 1270,
-      "id": "5523f49ab1297dbc",
-      "label": "SVE Paper Type",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1130,
-      "x": -560,
-      "y": 400
-    },
-    {
-      "height": 600,
-      "id": "25cc45ee3e46284f",
-      "label": "Status Workflow",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 2060,
-      "x": -1400,
-      "y": 2720
-    },
-    {
-      "height": 740,
-      "id": "9338bbfec6db848e",
-      "label": "Cover Page",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1220,
-      "x": -560,
-      "y": 1820
-    },
-    {
-      "height": 520,
-      "id": "fea65292da487c3a",
-      "label": "Time Table",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1340,
-      "x": -3160,
-      "y": 3680
-    },
-    {
-      "height": 1020,
-      "id": "e4a65494b9d13a6c",
-      "label": "Paper Type",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 400,
-      "x": 1540,
-      "y": 1980
-    },
-    {
-      "height": 600,
-      "id": "272ed2e5b04d6b55",
-      "label": "SVE Audio File",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 420,
-      "x": 2560,
-      "y": 2840
-    },
-    {
-      "height": 60,
-      "id": "21eecd35df3f0784",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Approved FBP",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": 3240
-    },
-    {
-      "height": 60,
-      "id": "bf30ddbd8857009e",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Revision Upload",
-      "type": "text",
-      "width": 260,
-      "x": 160,
-      "y": 3020
-    },
-    {
-      "height": 60,
-      "id": "51a938996acabd4d",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Commented",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": 3150
-    },
-    {
-      "height": 60,
-      "id": "fcafdeea52da2a87",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Approved Draft",
-      "type": "text",
-      "width": 260,
-      "x": -360,
-      "y": 3180
-    },
-    {
-      "height": 160,
-      "id": "5b26d250794b8d75",
-      "styleAttributes": {
-      },
-      "text": "**Comment on every SVE Exam Type.**\n\nSave User - Comment - Time",
-      "type": "text",
-      "width": 260,
-      "x": -3140,
-      "y": 3700
-    },
-    {
-      "height": 180,
-      "id": "055e9e1dd3e2db9c",
-      "styleAttributes": {
-      },
-      "text": "**Set Time Table:**\n1. Day\n2. Date\n3. Time\n4. Duration",
-      "type": "text",
-      "width": 260,
-      "x": -2720,
-      "y": 3980
-    },
-    {
-      "height": 150,
-      "id": "503a58d2dc21e8ed",
-      "styleAttributes": {
-      },
-      "text": "**Time Table Activity**\n1. Record Comment\n2. Record Created & Updated Data",
-      "type": "text",
-      "width": 260,
-      "x": -2100,
-      "y": 3995
-    },
-    {
-      "height": 80,
-      "id": "b8a649462fd7a27c",
-      "styleAttributes": {
-      },
-      "text": "**User:** Set Approve Mark on every Comment",
-      "type": "text",
-      "width": 260,
-      "x": -2720,
-      "y": 3740
-    },
-    {
-      "height": 80,
-      "id": "c664f20a81610831",
-      "styleAttributes": {
-      },
-      "text": "**User** Make Change on Time Table",
-      "type": "text",
-      "width": 220,
-      "x": -3140,
-      "y": 4100
-    },
-    {
-      "height": 60,
-      "id": "6b1841e3f92684cb",
-      "styleAttributes": {
-        "border": null,
-        "shape": "pill"
-      },
-      "text": "Teacher Upload File",
-      "type": "text",
-      "width": 220,
-      "x": -1060,
-      "y": 1790
-    },
-    {
-      "height": 80,
-      "id": "cf4223cfc888a602",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "Disable **File Upload** when Overdue Upload Deadline",
-      "type": "text",
-      "width": 260,
-      "x": -1240,
-      "y": 2060
-    },
-    {
-      "height": 60,
-      "id": "b6f400ff9befca2f",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Additional Paper",
-      "type": "text",
-      "width": 194,
-      "x": -1080,
-      "y": 1320
-    },
-    {
-      "height": 440,
-      "id": "48a7da6387e7f259",
-      "styleAttributes": {
-      },
-      "text": "**Paper Type Default**\nShow all paper type except Additional \nDefault:\n1. Question Paper\n2. Marking Schema\n3. Cover Page\n4. TOS\n5. Disclosure\n6. Other File\n7. Eratum Question Paper\n8. Eratum Marking Scheme\n\n**Notes:** \nAll component have Paper Type \"Other File\" (PDF & ZIP)",
-      "type": "text",
-      "width": 390,
-      "x": -150,
-      "y": 1160
-    },
-    {
-      "height": 60,
-      "id": "27a06dfc5b7fd19b",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Setter Created",
-      "type": "text",
-      "width": 180,
-      "x": -980,
-      "y": 3060
-    },
-    {
-      "height": 60,
-      "id": "b67bcdb46b9d16b8",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "1",
-      "type": "text",
-      "width": 60,
-      "x": -740,
-      "y": 3060
-    },
-    {
-      "height": 60,
-      "id": "bdfe15b54045d2ac",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Master Component",
-      "type": "text",
-      "width": 220,
-      "x": -2275,
-      "y": 1430
-    },
-    {
-      "height": 200,
-      "id": "788d01481f07531c",
-      "styleAttributes": {
-      },
-      "text": "SUBJECT\n\n| ID  | Name    |\n| --- | ------- |\n| 1   | English |\n\n\n",
-      "type": "text",
-      "width": 260,
-      "x": -2840,
-      "y": 4680
-    },
-    {
-      "height": 260,
-      "id": "1f7602c25074effb",
-      "styleAttributes": {
-      },
-      "text": "SVE\n\n| ID  | AY    | Subject | Component |\n| --- | ----- | ------- | --------- |\n| 1   | 24/25 | English | Paper 1   |\n\n\n",
-      "type": "text",
-      "width": 400,
-      "x": -2520,
-      "y": 4680
-    },
-    {
-      "height": 260,
-      "id": "1cc9522681edaf40",
-      "styleAttributes": {
-      },
-      "text": "SVE Exam Type\n\n| ID  | AY    | Subject | Component |\n| --- | ----- | ------- | --------- |\n| 1   | 24/25 | English | Paper 1   |\n\n\n",
-      "type": "text",
-      "width": 480,
-      "x": -2040,
-      "y": 4680
-    },
-    {
-      "height": 60,
-      "id": "47aa7e79de548128",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "**File Status:** Null",
-      "type": "text",
-      "width": 160,
-      "x": -1380,
-      "y": 3120
-    },
-    {
-      "height": 60,
-      "id": "f69c6eb9a3bfdb94",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Vetter Created",
-      "type": "text",
-      "width": 180,
-      "x": -980,
-      "y": 3210
-    },
-    {
-      "height": 60,
-      "id": "2202132fc063c50d",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "3",
-      "type": "text",
-      "width": 60,
-      "x": -740,
-      "y": 3210
-    },
-    {
-      "height": 320,
-      "id": "da348874e4e1b85c",
-      "styleAttributes": {
-      },
-      "text": "Paper Type\n\n| ID  | Name           | is_additional |\n| --- | -------------- | ------------- |\n| 1   | Question Paper |               |\n| 2   | Answer Sheet   | true          |\n| 3   | Marking Scheme |               |\n\n\n",
-      "type": "text",
-      "width": 400,
-      "x": -2980,
-      "y": 5020
-    },
-    {
-      "height": 260,
-      "id": "afedb6bf917be152",
-      "styleAttributes": {
-      },
-      "text": "Additional Paper\n\n| ID  | PaperTypeID | SVE |     |\n| --- | ----------- | --- | --- |\n| 1   | 2           | 1   |     |\n\n\n",
-      "type": "text",
-      "width": 400,
-      "x": -2520,
-      "y": 5020
-    },
-    {
-      "height": 340,
-      "id": "c1b0bb56549aedd6",
-      "styleAttributes": {
-      },
-      "text": "**Cover Template**\n\n```mermaid\nerDiagram \nCOVER_TEMPLATE { \nint id PK \nint academic_year FK\nint master_programme FK\nstring name \nenum template_type \"COVER | INSERT\"\njson content\n}\n```\n\n",
-      "type": "text",
-      "width": 400,
-      "x": -2040,
-      "y": 5020
-    },
-    {
-      "height": 200,
-      "id": "378e6178f9de1470",
-      "styleAttributes": {
-      },
-      "text": "MASTER  SVE COMPONEN\n\n| ID  | Name    |\n| --- | ------- |\n| 1   | Paper 1 |\n\n\n",
-      "type": "text",
-      "width": 260,
-      "x": -3160,
-      "y": 4680
-    },
-    {
-      "height": 120,
-      "id": "e06a0ff6da7cd66a",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": null
-      },
-      "text": "**User (AB Admin) Setup Cover Template**\n1. Cover Page\n2. Insert Cover Page",
-      "type": "text",
-      "width": 350,
-      "x": 765,
-      "y": 1670
-    },
-    {
-      "height": 120,
-      "id": "a135147601fcb331",
-      "styleAttributes": {
-      },
-      "text": "**Admin User:**\nList of Audio file on all SVE, Pair with Answer Sheet, **If exist**",
-      "type": "text",
-      "width": 380,
-      "x": 2580,
-      "y": 2880
-    },
-    {
-      "height": 380,
-      "id": "70833a8ec17c8787",
-      "styleAttributes": {
-      },
-      "text": "**Teacher User:**\nGet spesific audio file based on subject teacher access.\n\n**Notes:** \n1. **Audio File:** Show File on H - 7 Exam Time Table.\n2. **Blank State Not on Range Date:** Show information, \"Audio will show on {date}, for exam date on {exam_date}\".\n3. **Marking Scheme:** Show File on 1 second after Exam Time Table Time + Duration.",
-      "type": "text",
-      "width": 380,
-      "x": 2580,
-      "y": 3020
-    },
-    {
-      "height": 240,
-      "id": "0a872dec2d38d8e3",
-      "styleAttributes": {
-      },
-      "text": "**Eratum File**\n1. Eratum File Upload Active when H - 7 Exam Date.\n2. Send Email to {**TBC**} after upload Eratum File.\n",
-      "type": "text",
-      "width": 260,
-      "x": 2540,
-      "y": 3560
-    },
-    {
-      "height": 340,
-      "id": "fbe527d081773000",
-      "styleAttributes": {
-      },
-      "text": "#### Print Label\n\n**List of Variant Label**\n1. Expert Label\n2. HOD Label\n3. Exam Label\n4. Miscellaneous\n5. Teacher Paper Label\n6. Late Label \n   ***(Exam Label from Late Printing Request)***",
-      "type": "text",
-      "width": 340,
-      "x": 4820,
-      "y": 1725
-    },
-    {
-      "height": 80,
-      "id": "f03c0c664b47eb08",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "Calculating Printing Detail for Flag LATE",
-      "type": "text",
-      "width": 260,
-      "x": 3410,
-      "y": 2320
-    },
-    {
-      "height": 80,
-      "id": "065c9e7acce28ed6",
-      "styleAttributes": {
-      },
-      "text": "Set Print Number, Add Flag as LATE",
-      "type": "text",
-      "width": 260,
-      "x": 3410,
-      "y": 2520
-    },
-    {
-      "height": 60,
-      "id": "11ad0ba7b3003ba1",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "Set Late Printing",
-      "type": "text",
-      "width": 230,
-      "x": 3020,
-      "y": 2390
-    },
-    {
-      "height": 85,
-      "id": "62afa791b96f486d",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "text": "Check Printing Request Deadline",
-      "type": "text",
-      "width": 200,
-      "x": 2620,
-      "y": 2170
-    },
-    {
-      "height": 120,
-      "id": "a7c232f25df049c8",
-      "styleAttributes": {
-      },
-      "text": "**On System File:**\n1. Disclosure\n2. Other File",
-      "type": "text",
-      "width": 360,
-      "x": 1560,
-      "y": 2000
-    },
-    {
-      "height": 320,
-      "id": "74bd7aa0e3dfc06b",
-      "styleAttributes": {
-      },
-      "text": "**Exam Print:**\n1. Exam Paper\n\t1. Question Paper + **Cover Page**\n\t2. Insert + **Insert Cover Page**\n2. Marking Scheme + TOS\n3. Answer Sheet\n4. Teacher Paper\n5. MCQ\n6. MF19",
-      "type": "text",
-      "width": 360,
-      "x": 1560,
-      "y": 2200
-    },
-    {
-      "height": 120,
-      "id": "fbb8ec9077ab1760",
-      "styleAttributes": {
-      },
-      "text": "**Exam File:**\n1. Audio File\n2. Marking Scheme",
-      "type": "text",
-      "width": 360,
-      "x": 1560,
-      "y": 2600
-    },
-    {
-      "file": "BBS Notes/SVE Journey/ExpertLabel.png",
-      "height": 181,
-      "id": "947841ab509557b4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 5220,
-      "y": 1725
-    },
-    {
-      "file": "BBS Notes/SVE Journey/HODLabel.png",
-      "height": 177,
-      "id": "b59bb439a56a1ff4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 399,
-      "x": 5220,
-      "y": 1965
-    },
-    {
-      "file": "BBS Notes/SVE Journey/ExamLabel.png",
-      "height": 177,
-      "id": "da54aa4935c22fd4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 5660,
-      "y": 1725
-    },
-    {
-      "file": "BBS Notes/SVE Journey/TeacherPaper.png",
-      "height": 180,
-      "id": "a17cbb46772761b0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 5220,
-      "y": 2195
-    },
-    {
-      "height": 80,
-      "id": "e7f9affc11e1ae7d",
-      "styleAttributes": {
-      },
-      "text": "Templatenya disamain aja, ada **Expert** nya",
-      "type": "text",
-      "width": 260,
-      "x": 5260,
-      "y": 2515
-    },
-    {
-      "height": 70,
-      "id": "5be48100b85e5648",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "Principals Set Printing Request",
-      "type": "text",
-      "width": 230,
-      "x": 3020,
-      "y": 1955
-    },
-    {
-      "file": "BBS Notes/PrintingDetail.pdf",
-      "height": 400,
-      "id": "6e9789139cdc335b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3820,
-      "y": 1920
-    },
-    {
-      "file": "BBS Notes/SVE Journey/Misc.png",
-      "height": 177,
-      "id": "362c17eb725447db",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 783,
-      "x": 5660,
-      "y": 1965
-    },
-    {
-      "height": 220,
-      "id": "963d9a60639c0d4c",
-      "styleAttributes": {
-      },
-      "text": "**Set Print Number:**\n1. Question Paper\n2. Extra\n3. MCQ Sheet (IF Exist)\n4. MF19 a.k.a List of Formulae (IF Exist)",
-      "type": "text",
-      "width": 320,
-      "x": 3380,
-      "y": 1740
-    },
-    {
-      "height": 80,
-      "id": "dd6e3c95d2688ce4",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": null
-      },
-      "text": "**Save File History on Every Change Status**",
-      "type": "text",
-      "width": 220,
-      "x": 800,
-      "y": 2910
-    },
-    {
-      "height": 60,
-      "id": "dac0d1fd873df25d",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "1",
-      "type": "text",
-      "width": 60,
-      "x": -480,
-      "y": 2740
-    },
-    {
-      "height": 60,
-      "id": "aa5ffd232cdccd5d",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Commented",
-      "type": "text",
-      "width": 240,
-      "x": -360,
-      "y": 2920
-    },
-    {
-      "height": 60,
-      "id": "1255ac739966746a",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "2",
-      "type": "text",
-      "width": 60,
-      "x": -80,
-      "y": 2920
-    },
-    {
-      "height": 60,
-      "id": "84cdd8bb475d0ae9",
-      "styleAttributes": {
-      },
-      "text": "**File Status:** Updated",
-      "type": "text",
-      "width": 220,
-      "x": -340,
-      "y": 2740
-    },
-    {
-      "height": 60,
-      "id": "cecb1ea76e7fa34a",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "2",
-      "type": "text",
-      "width": 60,
-      "x": 580,
-      "y": 3150
-    },
-    {
-      "height": 60,
-      "id": "9ed04c573bfa5ce7",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "3",
-      "type": "text",
-      "width": 60,
-      "x": 0,
-      "y": 3180
-    },
-    {
-      "height": 80,
-      "id": "562e0ec0e4250bb9",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "System Calculatin Printing Detail for all Branch",
-      "type": "text",
-      "width": 260,
-      "x": 3410,
-      "y": 2080
-    },
-    {
-      "height": 100,
-      "id": "9fc1ba5168083416",
-      "styleAttributes": {
-      },
-      "text": "**Admin User:**\nPaper Type File Monitoring, to see all file number of file upload & number off status",
-      "type": "text",
-      "width": 380,
-      "x": 1550,
-      "y": 3340
-    },
-    {
-      "height": 80,
-      "id": "10e7dba972ff680b",
-      "styleAttributes": {
-      },
-      "text": "List of Other File on all SVE Exam Type",
-      "type": "text",
-      "width": 260,
-      "x": 2100,
-      "y": 1660
-    },
-    {
-      "height": 80,
-      "id": "55fd129221ca7f7a",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "**Default Template:** \nAY | Template",
-      "type": "text",
-      "width": 260,
-      "x": 340,
-      "y": 1880
-    },
-    {
-      "height": 80,
-      "id": "ce6d9af42cfbbb48",
-      "styleAttributes": {
-        "shape": "document"
-      },
-      "text": "Insert Cover Page",
-      "type": "text",
-      "width": 210,
-      "x": 130,
-      "y": 2120
-    },
-    {
-      "height": 60,
-      "id": "6ef85d0bfceebc5b",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Cover Page",
-      "type": "text",
-      "width": 220,
-      "x": 180,
-      "y": 2440
-    },
-    {
-      "height": 80,
-      "id": "b5bf4c822df51938",
-      "styleAttributes": {
-        "shape": "document"
-      },
-      "text": "Cover Page",
-      "type": "text",
-      "width": 150,
-      "x": -95,
-      "y": 2260
-    },
-    {
-      "height": 240,
-      "id": "324a7f4960b95a7b",
-      "styleAttributes": {
-      },
-      "text": "**SVE User**\n- Setter\n- Vetter\n- Expert\n**Notes:** \nCan select to more than 1 user",
-      "type": "text",
-      "width": 280,
-      "x": -150,
-      "y": 420
-    },
-    {
-      "height": 60,
-      "id": "1feebd370f3f69f8",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "Teacher Create Cover",
-      "type": "text",
-      "width": 230,
-      "x": -500,
-      "y": 2170
-    },
-    {
-      "height": 380,
-      "id": "4b49b75a0c54e0c0",
-      "styleAttributes": {
-      },
-      "text": "**Paper Type Additional**\n1. MCQ\n2. MF19\n3. Audio File\n4. Teacher Paper\n5. Answer Sheet (AS)\n6. Eratum Answer Sheet\n7. Insert\n\t1. Insert Cover Page\n\nBy default, all component, didn't have this type",
-      "type": "text",
-      "width": 280,
-      "x": -150,
-      "y": 720
-    },
-    {
-      "height": 180,
-      "id": "0d2db3b3aa8bf9fc",
-      "styleAttributes": {
-      },
-      "text": "**Eratum File:**\n1. Question Paper\n2. Marking Scheme\n3. Answer Sheet (IF Exsist)",
-      "type": "text",
-      "width": 360,
-      "x": 1560,
-      "y": 2800
-    },
-    {
-      "height": 100,
-      "id": "75a4a2b471347596",
-      "styleAttributes": {
-      },
-      "text": "**IF AF, TP, AS, INS Exist:**\nAdd Paper Type on Teacher Upload",
-      "type": "text",
-      "width": 260,
-      "x": 290,
-      "y": 1000
-    },
-    {
-      "height": 100,
-      "id": "27bcad5cb031795c",
-      "styleAttributes": {
-      },
-      "text": "**IF MCQ, MF19 Exist:**\nAdd field MCQ, MF19 on Printing Request",
-      "type": "text",
-      "width": 260,
-      "x": 290,
-      "y": 780
-    },
-    {
-      "height": 60,
-      "id": "65be24b540eedf4f",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Paper Type",
-      "type": "text",
-      "width": 180,
-      "x": -540,
-      "y": 790
-    },
-    {
-      "height": 60,
-      "id": "267ad3f55faa3565",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Subject",
-      "type": "text",
-      "width": 220,
-      "x": -2275,
-      "y": 1550
-    },
-    {
-      "height": 60,
-      "id": "6146a955eb41d4ca",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "AY",
-      "type": "text",
-      "width": 220,
-      "x": -2275,
-      "y": 1690
-    },
-    {
-      "height": 60,
-      "id": "d3c62a44c3975387",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Subject",
-      "type": "text",
-      "width": 220,
-      "x": -3700,
-      "y": 2320
-    },
-    {
-      "height": 60,
-      "id": "abbb23a4a3163fb9",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Additional Paper",
-      "type": "text",
-      "width": 230,
-      "x": -2860,
-      "y": 2290
-    },
-    {
-      "height": 60,
-      "id": "5cf60b1b675bd0cb",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE",
-      "type": "text",
-      "width": 100,
-      "x": -3095,
-      "y": 2460
-    },
-    {
-      "height": 60,
-      "id": "657be433de19b9f1",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Exam Type",
-      "type": "text",
-      "width": 180,
-      "x": -2885,
-      "y": 2680
-    },
-    {
-      "height": 60,
-      "id": "39d69877b07bc8f6",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "AY",
-      "type": "text",
-      "width": 220,
-      "x": -3700,
-      "y": 2460
-    },
-    {
-      "height": 60,
-      "id": "5a493867ee5154b6",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Master Component",
-      "type": "text",
-      "width": 220,
-      "x": -3700,
-      "y": 2200
-    },
-    {
-      "height": 60,
-      "id": "d65f771bf1369fde",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Component",
-      "type": "text",
-      "width": 220,
-      "x": -3315,
-      "y": 2230
-    },
-    {
-      "height": 60,
-      "id": "a2b41df071076a53",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Exam Type",
-      "type": "text",
-      "width": 150,
-      "x": -3215,
-      "y": 2710
-    },
-    {
-      "height": 60,
-      "id": "d441f3cd57d65917",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Exam Type",
-      "type": "text",
-      "width": 180,
-      "x": -1730,
-      "y": 1790
-    },
-    {
-      "height": 60,
-      "id": "f0f47e3d274f9432",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "Exam Type",
-      "type": "text",
-      "width": 150,
-      "x": -2060,
-      "y": 1820
-    },
-    {
-      "height": 60,
-      "id": "483430d90da83758",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE",
-      "type": "text",
-      "width": 100,
-      "x": -1875,
-      "y": 1550
-    },
-    {
-      "height": 60,
-      "id": "bca7f331937a3430",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "SVE Paper Type",
-      "type": "text",
-      "width": 180,
-      "x": -2440,
-      "y": 2060
-    }
-  ]
+	"edges":[
+		{
+			"id":"cfd25291764cc216",
+			"styleAttributes":{},
+			"fromNode":"b67bcdb46b9d16b8",
+			"fromSide":"right",
+			"toNode":"aa5ffd232cdccd5d",
+			"toSide":"left",
+			"label":"Vetter Annotator"
+		},
+		{
+			"id":"91201ade30a0dfac",
+			"styleAttributes":{},
+			"fromNode":"47aa7e79de548128",
+			"fromSide":"right",
+			"toNode":"27a06dfc5b7fd19b",
+			"toSide":"left",
+			"label":"Setter Upload"
+		},
+		{
+			"id":"2c4d1c7b05eba91b",
+			"styleAttributes":{},
+			"fromNode":"47aa7e79de548128",
+			"fromSide":"right",
+			"toNode":"f69c6eb9a3bfdb94",
+			"toSide":"left",
+			"label":"Vetter Upload"
+		},
+		{
+			"id":"bc887a36a4e4d972",
+			"styleAttributes":{},
+			"fromNode":"b67bcdb46b9d16b8",
+			"fromSide":"right",
+			"toNode":"fcafdeea52da2a87",
+			"toSide":"left",
+			"label":"Vetter Annotator"
+		},
+		{
+			"id":"89dba6df29e9e1ab",
+			"styleAttributes":{},
+			"fromNode":"1255ac739966746a",
+			"fromSide":"right",
+			"toNode":"bf30ddbd8857009e",
+			"toSide":"left",
+			"label":"Vetter Upload"
+		},
+		{
+			"id":"8c3756becd922ab5",
+			"styleAttributes":{},
+			"fromNode":"1255ac739966746a",
+			"fromSide":"right",
+			"toNode":"84cdd8bb475d0ae9",
+			"toSide":"right",
+			"label":"Setter Upload"
+		},
+		{
+			"id":"48c01ca0703997a4",
+			"styleAttributes":{},
+			"fromNode":"84cdd8bb475d0ae9",
+			"fromSide":"left",
+			"toNode":"dac0d1fd873df25d",
+			"toSide":"right"
+		},
+		{
+			"id":"9d9ca6a9deb74d2a",
+			"styleAttributes":{},
+			"fromNode":"9ed04c573bfa5ce7",
+			"fromSide":"right",
+			"toNode":"51a938996acabd4d",
+			"toSide":"left",
+			"label":"Expert Annotator"
+		},
+		{
+			"id":"65275b34c460ba58",
+			"styleAttributes":{},
+			"fromNode":"aa5ffd232cdccd5d",
+			"fromSide":"right",
+			"toNode":"1255ac739966746a",
+			"toSide":"left"
+		},
+		{
+			"id":"6cb63b821712f965",
+			"styleAttributes":{},
+			"fromNode":"27a06dfc5b7fd19b",
+			"fromSide":"right",
+			"toNode":"b67bcdb46b9d16b8",
+			"toSide":"left"
+		},
+		{
+			"id":"76cb60af21cfea0d",
+			"styleAttributes":{},
+			"fromNode":"51a938996acabd4d",
+			"fromSide":"right",
+			"toNode":"cecb1ea76e7fa34a",
+			"toSide":"left"
+		},
+		{
+			"id":"e4beb0801095c3b6",
+			"styleAttributes":{},
+			"fromNode":"9ed04c573bfa5ce7",
+			"fromSide":"right",
+			"toNode":"21eecd35df3f0784",
+			"toSide":"left"
+		},
+		{
+			"id":"25417a7267e47892",
+			"styleAttributes":{},
+			"fromNode":"fcafdeea52da2a87",
+			"fromSide":"right",
+			"toNode":"9ed04c573bfa5ce7",
+			"toSide":"left"
+		},
+		{
+			"id":"fb52c4ded141cc4f",
+			"styleAttributes":{},
+			"fromNode":"f69c6eb9a3bfdb94",
+			"fromSide":"right",
+			"toNode":"2202132fc063c50d",
+			"toSide":"left"
+		},
+		{
+			"id":"65ce34d93a474ebf",
+			"styleAttributes":{},
+			"fromNode":"4b49b75a0c54e0c0",
+			"fromSide":"right",
+			"toNode":"27bcad5cb031795c",
+			"toSide":"left"
+		},
+		{
+			"id":"22c546baba286b7e",
+			"styleAttributes":{},
+			"fromNode":"4b49b75a0c54e0c0",
+			"fromSide":"right",
+			"toNode":"75a4a2b471347596",
+			"toSide":"left"
+		},
+		{
+			"id":"060265b7d5202cff",
+			"styleAttributes":{},
+			"fromNode":"6146a955eb41d4ca",
+			"fromSide":"right",
+			"toNode":"483430d90da83758",
+			"toSide":"left"
+		},
+		{
+			"id":"aa4624d7fbb17d37",
+			"styleAttributes":{},
+			"fromNode":"f0f47e3d274f9432",
+			"fromSide":"right",
+			"toNode":"d441f3cd57d65917",
+			"toSide":"left"
+		},
+		{
+			"id":"0e13e297759cd7b7",
+			"styleAttributes":{},
+			"fromNode":"483430d90da83758",
+			"fromSide":"bottom",
+			"toNode":"d441f3cd57d65917",
+			"toSide":"left"
+		},
+		{
+			"id":"7fbd8b53d57360bf",
+			"styleAttributes":{},
+			"fromNode":"4b49b75a0c54e0c0",
+			"fromSide":"left",
+			"toNode":"65be24b540eedf4f",
+			"toSide":"right"
+		},
+		{
+			"id":"e4b385c31331bab9",
+			"styleAttributes":{},
+			"fromNode":"48a7da6387e7f259",
+			"fromSide":"left",
+			"toNode":"65be24b540eedf4f",
+			"toSide":"right"
+		},
+		{
+			"id":"b53e555cb0427ca2",
+			"styleAttributes":{},
+			"fromNode":"65be24b540eedf4f",
+			"fromSide":"left",
+			"toNode":"b6f400ff9befca2f",
+			"toSide":"top",
+			"label":"Paper Type Additional"
+		},
+		{
+			"id":"ae1de624e8c24def",
+			"styleAttributes":{},
+			"fromNode":"65be24b540eedf4f",
+			"fromSide":"bottom",
+			"toNode":"6b1841e3f92684cb",
+			"toSide":"right",
+			"label":"Paper Type Default"
+		},
+		{
+			"id":"bf694d5d4005178e",
+			"styleAttributes":{},
+			"fromNode":"b6f400ff9befca2f",
+			"fromSide":"bottom",
+			"toNode":"6b1841e3f92684cb",
+			"toSide":"top",
+			"label":"If Exist"
+		},
+		{
+			"id":"9def8ab6c463d67d",
+			"styleAttributes":{},
+			"fromNode":"bdfe15b54045d2ac",
+			"fromSide":"right",
+			"toNode":"483430d90da83758",
+			"toSide":"left"
+		},
+		{
+			"id":"0f6358ae94cde00c",
+			"styleAttributes":{},
+			"fromNode":"267ad3f55faa3565",
+			"fromSide":"right",
+			"toNode":"483430d90da83758",
+			"toSide":"left"
+		},
+		{
+			"id":"4d96982e4dd4c3c6",
+			"styleAttributes":{},
+			"fromNode":"d3c62a44c3975387",
+			"fromSide":"right",
+			"toNode":"d65f771bf1369fde",
+			"toSide":"left"
+		},
+		{
+			"id":"ca1d1cca84d58220",
+			"styleAttributes":{},
+			"fromNode":"39d69877b07bc8f6",
+			"fromSide":"right",
+			"toNode":"5cf60b1b675bd0cb",
+			"toSide":"left"
+		},
+		{
+			"id":"5a9b2d669295c925",
+			"styleAttributes":{},
+			"fromNode":"5a493867ee5154b6",
+			"fromSide":"right",
+			"toNode":"d65f771bf1369fde",
+			"toSide":"left"
+		},
+		{
+			"id":"883074de00a6bd74",
+			"styleAttributes":{},
+			"fromNode":"d65f771bf1369fde",
+			"fromSide":"bottom",
+			"toNode":"5cf60b1b675bd0cb",
+			"toSide":"left"
+		},
+		{
+			"id":"392b2452be7aff74",
+			"styleAttributes":{},
+			"fromNode":"bca7f331937a3430",
+			"fromSide":"left",
+			"toNode":"abbb23a4a3163fb9",
+			"toSide":"right",
+			"label":"Paper Type Additional"
+		},
+		{
+			"id":"ad818ed0a5dfad25",
+			"styleAttributes":{},
+			"fromNode":"d65f771bf1369fde",
+			"fromSide":"right",
+			"toNode":"abbb23a4a3163fb9",
+			"toSide":"left"
+		},
+		{
+			"id":"f257ceb636ea3fff",
+			"styleAttributes":{"path":"long-dashed"},
+			"fromNode":"657be433de19b9f1",
+			"fromSide":"right",
+			"toNode":"6b1841e3f92684cb",
+			"toSide":"left",
+			"label":"Aware when Change Adds Paper"
+		},
+		{
+			"id":"87bf457c2eaa5570",
+			"styleAttributes":{},
+			"fromNode":"a2b41df071076a53",
+			"fromSide":"right",
+			"toNode":"657be433de19b9f1",
+			"toSide":"left"
+		},
+		{
+			"id":"453b37432fe82192",
+			"styleAttributes":{},
+			"fromNode":"5cf60b1b675bd0cb",
+			"fromSide":"bottom",
+			"toNode":"657be433de19b9f1",
+			"toSide":"left"
+		},
+		{
+			"id":"f54ecddbf39bd880",
+			"styleAttributes":{},
+			"fromNode":"324a7f4960b95a7b",
+			"fromSide":"left",
+			"toNode":"65be24b540eedf4f",
+			"toSide":"right"
+		},
+		{
+			"id":"68be79e25f2898bc",
+			"styleAttributes":{},
+			"fromNode":"6b1841e3f92684cb",
+			"fromSide":"bottom",
+			"toNode":"25cc45ee3e46284f",
+			"toSide":"top"
+		},
+		{
+			"id":"830bedcff8fb94b8",
+			"styleAttributes":{},
+			"fromNode":"e06a0ff6da7cd66a",
+			"fromSide":"left",
+			"toNode":"55fd129221ca7f7a",
+			"toSide":"right"
+		},
+		{
+			"id":"b75cea6aaa81b594",
+			"styleAttributes":{},
+			"fromNode":"d441f3cd57d65917",
+			"fromSide":"right",
+			"toNode":"6b1841e3f92684cb",
+			"toSide":"left"
+		},
+		{
+			"id":"4ae7ff9a22c42203",
+			"styleAttributes":{},
+			"fromNode":"d441f3cd57d65917",
+			"fromSide":"right",
+			"toNode":"9338bbfec6db848e",
+			"toSide":"left"
+		},
+		{
+			"id":"b8a7f24092112aed",
+			"styleAttributes":{},
+			"fromNode":"b5bf4c822df51938",
+			"fromSide":"bottom",
+			"toNode":"6ef85d0bfceebc5b",
+			"toSide":"left",
+			"label":"Is_Insert: False"
+		},
+		{
+			"id":"3fe10ca7255fdd1d",
+			"styleAttributes":{},
+			"fromNode":"55fd129221ca7f7a",
+			"fromSide":"left",
+			"toNode":"b5bf4c822df51938",
+			"toSide":"top",
+			"label":"Is_Insert: False"
+		},
+		{
+			"id":"1d43302bebbf7b8c",
+			"styleAttributes":{},
+			"fromNode":"55fd129221ca7f7a",
+			"fromSide":"bottom",
+			"toNode":"ce6d9af42cfbbb48",
+			"toSide":"top",
+			"label":"Is_Insert: True"
+		},
+		{
+			"id":"df12843298fcba23",
+			"styleAttributes":{},
+			"fromNode":"ce6d9af42cfbbb48",
+			"fromSide":"right",
+			"toNode":"6ef85d0bfceebc5b",
+			"toSide":"right",
+			"label":"Is_Insert: True"
+		},
+		{
+			"id":"124f30bb38b45b70",
+			"styleAttributes":{},
+			"fromNode":"1feebd370f3f69f8",
+			"fromSide":"right",
+			"toNode":"b5bf4c822df51938",
+			"toSide":"left"
+		},
+		{
+			"id":"ad5933517b7c328c",
+			"styleAttributes":{"path":"short-dashed"},
+			"fromNode":"1feebd370f3f69f8",
+			"fromSide":"right",
+			"toNode":"ce6d9af42cfbbb48",
+			"toSide":"left",
+			"label":"Has_Insert"
+		},
+		{
+			"id":"029153ad95d28952",
+			"styleAttributes":{},
+			"fromNode":"5be48100b85e5648",
+			"fromSide":"right",
+			"toNode":"963d9a60639c0d4c",
+			"toSide":"left"
+		},
+		{
+			"id":"1ea8a8c093c223d3",
+			"styleAttributes":{},
+			"fromNode":"963d9a60639c0d4c",
+			"fromSide":"bottom",
+			"toNode":"562e0ec0e4250bb9",
+			"toSide":"top"
+		},
+		{
+			"id":"3f1aa7ff40fa5d95",
+			"styleAttributes":{},
+			"fromNode":"2062fb6b271cd8c0",
+			"fromSide":"right",
+			"toNode":"e4a65494b9d13a6c",
+			"toSide":"left"
+		},
+		{
+			"id":"dd26315e05a33e89",
+			"styleAttributes":{},
+			"fromNode":"562e0ec0e4250bb9",
+			"fromSide":"right",
+			"toNode":"6e9789139cdc335b",
+			"toSide":"left"
+		},
+		{
+			"id":"c6ef5fa3bb5d699c",
+			"styleAttributes":{},
+			"fromNode":"62afa791b96f486d",
+			"fromSide":"right",
+			"toNode":"5be48100b85e5648",
+			"toSide":"left",
+			"label":"Before Due Date"
+		},
+		{
+			"id":"d7ab667ef748204f",
+			"styleAttributes":{},
+			"fromNode":"62afa791b96f486d",
+			"fromSide":"right",
+			"toNode":"11ad0ba7b3003ba1",
+			"toSide":"left",
+			"label":"After Due Date"
+		},
+		{
+			"id":"4c2970fe081a8e2c",
+			"styleAttributes":{},
+			"fromNode":"11ad0ba7b3003ba1",
+			"fromSide":"right",
+			"toNode":"065c9e7acce28ed6",
+			"toSide":"left"
+		},
+		{
+			"id":"9bc8dad6ea0ea04d",
+			"styleAttributes":{},
+			"fromNode":"065c9e7acce28ed6",
+			"fromSide":"top",
+			"toNode":"f03c0c664b47eb08",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b14d56626add2563",
+			"styleAttributes":{},
+			"fromNode":"74bd7aa0e3dfc06b",
+			"fromSide":"right",
+			"toNode":"c4284b1b7c95b85b",
+			"toSide":"left"
+		},
+		{
+			"id":"a666985db848945b",
+			"styleAttributes":{},
+			"fromNode":"dd6e3c95d2688ce4",
+			"fromSide":"left",
+			"toNode":"25cc45ee3e46284f",
+			"toSide":"right"
+		},
+		{
+			"id":"305567bebdea17b3",
+			"styleAttributes":{},
+			"fromNode":"5b26d250794b8d75",
+			"fromSide":"right",
+			"toNode":"055e9e1dd3e2db9c",
+			"toSide":"left"
+		},
+		{
+			"id":"718f690c56d4dc3c",
+			"styleAttributes":{},
+			"fromNode":"c664f20a81610831",
+			"fromSide":"right",
+			"toNode":"055e9e1dd3e2db9c",
+			"toSide":"left"
+		},
+		{
+			"id":"73dfae8e0caa6721",
+			"styleAttributes":{},
+			"fromNode":"055e9e1dd3e2db9c",
+			"fromSide":"right",
+			"toNode":"503a58d2dc21e8ed",
+			"toSide":"left",
+			"label":"Create / Update Data"
+		},
+		{
+			"id":"c1d14405e8668abe",
+			"styleAttributes":{},
+			"fromNode":"b8a649462fd7a27c",
+			"fromSide":"left",
+			"toNode":"5b26d250794b8d75",
+			"toSide":"right"
+		},
+		{
+			"id":"cb22f53b01dd6d1f",
+			"styleAttributes":{},
+			"fromNode":"fbb8ec9077ab1760",
+			"fromSide":"right",
+			"toNode":"272ed2e5b04d6b55",
+			"toSide":"left"
+		},
+		{
+			"id":"6213cd31f13449ff",
+			"styleAttributes":{},
+			"fromNode":"a7c232f25df049c8",
+			"fromSide":"right",
+			"toNode":"10e7dba972ff680b",
+			"toSide":"left"
+		},
+		{
+			"id":"7abe9f2902f9b71e",
+			"styleAttributes":{"path":"long-dashed"},
+			"fromNode":"cf4223cfc888a602",
+			"fromSide":"top",
+			"toNode":"6b1841e3f92684cb",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2b807c958bb851a1",
+			"styleAttributes":{},
+			"fromNode":"0d2db3b3aa8bf9fc",
+			"fromSide":"right",
+			"toNode":"0a872dec2d38d8e3",
+			"toSide":"left"
+		},
+		{
+			"id":"1154c140362f01dc",
+			"styleAttributes":{"path":"short-dashed"},
+			"fromNode":"e7f9affc11e1ae7d",
+			"fromSide":"top",
+			"toNode":"a17cbb46772761b0",
+			"toSide":"bottom"
+		},
+		{
+			"id":"c946a4a03a24b300",
+			"styleAttributes":{},
+			"fromNode":"c4284b1b7c95b85b",
+			"fromSide":"right",
+			"toNode":"c060f566f89b84d3",
+			"toSide":"left"
+		},
+		{
+			"id":"576f4a3eeb401602",
+			"styleAttributes":{},
+			"fromNode":"d441f3cd57d65917",
+			"fromSide":"bottom",
+			"toNode":"fea65292da487c3a",
+			"toSide":"top"
+		},
+		{
+			"id":"1c6da53d9003c709",
+			"styleAttributes":{},
+			"fromNode":"e4a65494b9d13a6c",
+			"fromSide":"bottom",
+			"toNode":"9fc1ba5168083416",
+			"toSide":"top"
+		},
+		{
+			"id":"0a054ab4c55d6258",
+			"styleAttributes":{},
+			"fromNode":"483430d90da83758",
+			"fromSide":"right",
+			"toNode":"b6f400ff9befca2f",
+			"toSide":"left",
+			"label":"Enhance Duplicate Method"
+		}
+	],
+	"metadata":{"version":"1.0-1.0"},
+	"nodes":[
+		{
+			"id":"2062fb6b271cd8c0",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-4200,
+			"y":320,
+			"width":5400,
+			"height":3120,
+			"label":"SVE Main Function"
+		},
+		{
+			"id":"c4284b1b7c95b85b",
+			"styleAttributes":{},
+			"type":"group",
+			"x":2560,
+			"y":1700,
+			"width":1700,
+			"height":940,
+			"label":"Exam Printing & Printing Request"
+		},
+		{
+			"id":"c060f566f89b84d3",
+			"styleAttributes":{},
+			"type":"group",
+			"x":4800,
+			"y":1715,
+			"width":1663,
+			"height":910,
+			"label":"Print Label"
+		},
+		{
+			"id":"5523f49ab1297dbc",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-560,
+			"y":400,
+			"width":1130,
+			"height":1270,
+			"label":"SVE Paper Type"
+		},
+		{
+			"id":"c4cf710fff97b8cd",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3760,
+			"y":2000,
+			"width":1550,
+			"height":830,
+			"label":"Use SVE Component"
+		},
+		{
+			"id":"25cc45ee3e46284f",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1400,
+			"y":2720,
+			"width":2060,
+			"height":600,
+			"label":"Status Workflow"
+		},
+		{
+			"id":"9338bbfec6db848e",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-560,
+			"y":1820,
+			"width":1220,
+			"height":740,
+			"label":"Cover Page"
+		},
+		{
+			"id":"fea65292da487c3a",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3160,
+			"y":3680,
+			"width":1340,
+			"height":520,
+			"label":"Time Table"
+		},
+		{
+			"id":"478db03af8de9592",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2320,
+			"y":1380,
+			"width":800,
+			"height":550,
+			"label":"Existing Flow"
+		},
+		{
+			"id":"e4a65494b9d13a6c",
+			"styleAttributes":{},
+			"type":"group",
+			"x":1540,
+			"y":1980,
+			"width":400,
+			"height":1020,
+			"label":"Paper Type"
+		},
+		{
+			"id":"272ed2e5b04d6b55",
+			"styleAttributes":{},
+			"type":"group",
+			"x":2560,
+			"y":2840,
+			"width":420,
+			"height":600,
+			"label":"SVE Audio File"
+		},
+		{
+			"id":"b6f400ff9befca2f",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Additional Paper",
+			"type":"text",
+			"x":-1080,
+			"y":1320,
+			"width":194,
+			"height":60
+		},
+		{
+			"id":"48a7da6387e7f259",
+			"styleAttributes":{},
+			"text":"**Paper Type Default**\nShow all paper type except Additional \nDefault:\n1. Question Paper\n2. Marking Schema\n3. Cover Page\n4. TOS\n5. Disclosure\n6. Other File\n7. Eratum Question Paper\n8. Eratum Marking Scheme\n\n**Notes:** \nAll component have Paper Type \"Other File\" (PDF & ZIP)",
+			"type":"text",
+			"x":-150,
+			"y":1160,
+			"width":390,
+			"height":440
+		},
+		{
+			"id":"6b1841e3f92684cb",
+			"styleAttributes":{
+				"border":null,
+				"shape":"pill"
+			},
+			"text":"Teacher Upload File",
+			"type":"text",
+			"x":-1060,
+			"y":1790,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"55fd129221ca7f7a",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"**Default Template:** \nAY | Template",
+			"type":"text",
+			"x":340,
+			"y":1880,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"ce6d9af42cfbbb48",
+			"styleAttributes":{"shape":"document"},
+			"text":"Insert Cover Page",
+			"type":"text",
+			"x":130,
+			"y":2120,
+			"width":210,
+			"height":80
+		},
+		{
+			"id":"6ef85d0bfceebc5b",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Cover Page",
+			"type":"text",
+			"x":180,
+			"y":2440,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"b5bf4c822df51938",
+			"styleAttributes":{"shape":"document"},
+			"text":"Cover Page",
+			"type":"text",
+			"x":-95,
+			"y":2260,
+			"width":150,
+			"height":80
+		},
+		{
+			"id":"1feebd370f3f69f8",
+			"styleAttributes":{"shape":"pill"},
+			"text":"Teacher Create Cover",
+			"type":"text",
+			"x":-500,
+			"y":2170,
+			"width":230,
+			"height":60
+		},
+		{
+			"id":"bdfe15b54045d2ac",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Master Component",
+			"type":"text",
+			"x":-2275,
+			"y":1430,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"267ad3f55faa3565",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Subject",
+			"type":"text",
+			"x":-2275,
+			"y":1550,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"6146a955eb41d4ca",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"AY",
+			"type":"text",
+			"x":-2275,
+			"y":1690,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"f0f47e3d274f9432",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Exam Type",
+			"type":"text",
+			"x":-2060,
+			"y":1820,
+			"width":150,
+			"height":60
+		},
+		{
+			"id":"483430d90da83758",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE",
+			"type":"text",
+			"x":-1875,
+			"y":1550,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"324a7f4960b95a7b",
+			"styleAttributes":{},
+			"text":"**SVE User**\n- Setter\n- Vetter\n- Expert\n**Notes:** \nCan select to more than 1 user",
+			"type":"text",
+			"x":-150,
+			"y":420,
+			"width":280,
+			"height":240
+		},
+		{
+			"id":"4b49b75a0c54e0c0",
+			"styleAttributes":{},
+			"text":"**Paper Type Additional**\n1. MCQ\n2. MF19\n3. Audio File\n4. Teacher Paper\n5. Answer Sheet (AS)\n6. Eratum Answer Sheet\n7. Insert\n\t1. Insert Cover Page\n\nBy default, all component, didn't have this type",
+			"type":"text",
+			"x":-150,
+			"y":720,
+			"width":280,
+			"height":380
+		},
+		{
+			"id":"75a4a2b471347596",
+			"styleAttributes":{},
+			"text":"**IF AF, TP, AS, INS Exist:**\nAdd Paper Type on Teacher Upload",
+			"type":"text",
+			"x":290,
+			"y":1000,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"27bcad5cb031795c",
+			"styleAttributes":{},
+			"text":"**IF MCQ, MF19 Exist:**\nAdd field MCQ, MF19 on Printing Request",
+			"type":"text",
+			"x":290,
+			"y":780,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"65be24b540eedf4f",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Paper Type",
+			"type":"text",
+			"x":-540,
+			"y":790,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"a2b41df071076a53",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Exam Type",
+			"type":"text",
+			"x":-3215,
+			"y":2710,
+			"width":150,
+			"height":60
+		},
+		{
+			"id":"d441f3cd57d65917",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Exam Type",
+			"type":"text",
+			"x":-1730,
+			"y":1790,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"5cf60b1b675bd0cb",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE",
+			"type":"text",
+			"x":-3095,
+			"y":2460,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"657be433de19b9f1",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Exam Type",
+			"type":"text",
+			"x":-2885,
+			"y":2680,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"d3c62a44c3975387",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Subject",
+			"type":"text",
+			"x":-3700,
+			"y":2320,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"39d69877b07bc8f6",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"AY",
+			"type":"text",
+			"x":-3700,
+			"y":2460,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"abbb23a4a3163fb9",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Additional Paper",
+			"type":"text",
+			"x":-2860,
+			"y":2290,
+			"width":230,
+			"height":60
+		},
+		{
+			"id":"5a493867ee5154b6",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"Master Component",
+			"type":"text",
+			"x":-3700,
+			"y":2200,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"d65f771bf1369fde",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Component",
+			"type":"text",
+			"x":-3315,
+			"y":2230,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"788d01481f07531c",
+			"styleAttributes":{},
+			"text":"SUBJECT\n\n| ID  | Name    |\n| --- | ------- |\n| 1   | English |\n\n\n",
+			"type":"text",
+			"x":-2840,
+			"y":4680,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"1f7602c25074effb",
+			"styleAttributes":{},
+			"text":"SVE\n\n| ID  | AY    | Subject | Component |\n| --- | ----- | ------- | --------- |\n| 1   | 24/25 | English | Paper 1   |\n\n\n",
+			"type":"text",
+			"x":-2520,
+			"y":4680,
+			"width":400,
+			"height":260
+		},
+		{
+			"id":"1cc9522681edaf40",
+			"styleAttributes":{},
+			"text":"SVE Exam Type\n\n| ID  | AY    | Subject | Component |\n| --- | ----- | ------- | --------- |\n| 1   | 24/25 | English | Paper 1   |\n\n\n",
+			"type":"text",
+			"x":-2040,
+			"y":4680,
+			"width":480,
+			"height":260
+		},
+		{
+			"id":"da348874e4e1b85c",
+			"styleAttributes":{},
+			"text":"Paper Type\n\n| ID  | Name           | is_additional |\n| --- | -------------- | ------------- |\n| 1   | Question Paper |               |\n| 2   | Answer Sheet   | true          |\n| 3   | Marking Scheme |               |\n\n\n",
+			"type":"text",
+			"x":-2980,
+			"y":5020,
+			"width":400,
+			"height":320
+		},
+		{
+			"id":"afedb6bf917be152",
+			"styleAttributes":{},
+			"text":"Additional Paper\n\n| ID  | PaperTypeID | SVE |     |\n| --- | ----------- | --- | --- |\n| 1   | 2           | 1   |     |\n\n\n",
+			"type":"text",
+			"x":-2520,
+			"y":5020,
+			"width":400,
+			"height":260
+		},
+		{
+			"id":"e06a0ff6da7cd66a",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":null
+			},
+			"text":"**User (AB Admin) Setup Cover Template**\n1. Cover Page\n2. Insert Cover Page",
+			"type":"text",
+			"x":765,
+			"y":1670,
+			"width":350,
+			"height":120
+		},
+		{
+			"id":"bca7f331937a3430",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"SVE Paper Type",
+			"type":"text",
+			"x":-2440,
+			"y":2060,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"cf4223cfc888a602",
+			"styleAttributes":{"border":"dashed"},
+			"text":"Disable **File Upload** when Overdue Upload Deadline",
+			"type":"text",
+			"x":-1240,
+			"y":2060,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"c1b0bb56549aedd6",
+			"styleAttributes":{},
+			"text":"**Cover Template**\n\n```mermaid\nerDiagram \nCOVER_TEMPLATE { \nint id PK \nint academic_year FK\nint master_programme FK\nstring name \nenum template_type \"COVER | INSERT\"\njson content\n}\n```\n\n",
+			"type":"text",
+			"x":-2040,
+			"y":5020,
+			"width":400,
+			"height":340
+		},
+		{
+			"id":"378e6178f9de1470",
+			"styleAttributes":{},
+			"text":"MASTER  SVE COMPONEN\n\n| ID  | Name    |\n| --- | ------- |\n| 1   | Paper 1 |\n\n\n",
+			"type":"text",
+			"x":-3160,
+			"y":4680,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"5b26d250794b8d75",
+			"styleAttributes":{},
+			"text":"**Comment on every SVE Exam Type.**\n\nSave User - Comment - Time",
+			"type":"text",
+			"x":-3140,
+			"y":3700,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"055e9e1dd3e2db9c",
+			"styleAttributes":{},
+			"text":"**Set Time Table:**\n1. Day\n2. Date\n3. Time\n4. Duration",
+			"type":"text",
+			"x":-2720,
+			"y":3980,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"503a58d2dc21e8ed",
+			"styleAttributes":{},
+			"text":"**Time Table Activity**\n1. Record Comment\n2. Record Created & Updated Data",
+			"type":"text",
+			"x":-2100,
+			"y":3995,
+			"width":260,
+			"height":150
+		},
+		{
+			"id":"b8a649462fd7a27c",
+			"styleAttributes":{},
+			"text":"**User:** Set Approve Mark on every Comment",
+			"type":"text",
+			"x":-2720,
+			"y":3740,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"c664f20a81610831",
+			"styleAttributes":{},
+			"text":"**User** Make Change on Time Table",
+			"type":"text",
+			"x":-3140,
+			"y":4100,
+			"width":220,
+			"height":80
+		},
+		{
+			"id":"dac0d1fd873df25d",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"1",
+			"type":"text",
+			"x":-480,
+			"y":2740,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"aa5ffd232cdccd5d",
+			"styleAttributes":{},
+			"text":"**File Status:** Commented",
+			"type":"text",
+			"x":-360,
+			"y":2920,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"27a06dfc5b7fd19b",
+			"styleAttributes":{},
+			"text":"**File Status:** Setter Created",
+			"type":"text",
+			"x":-980,
+			"y":3060,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"f69c6eb9a3bfdb94",
+			"styleAttributes":{},
+			"text":"**File Status:** Vetter Created",
+			"type":"text",
+			"x":-980,
+			"y":3210,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"47aa7e79de548128",
+			"styleAttributes":{"shape":"pill"},
+			"text":"**File Status:** Null",
+			"type":"text",
+			"x":-1380,
+			"y":3120,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"51a938996acabd4d",
+			"styleAttributes":{},
+			"text":"**File Status:** Commented",
+			"type":"text",
+			"x":240,
+			"y":3150,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fcafdeea52da2a87",
+			"styleAttributes":{},
+			"text":"**File Status:** Approved Draft",
+			"type":"text",
+			"x":-360,
+			"y":3180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1255ac739966746a",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"2",
+			"type":"text",
+			"x":-80,
+			"y":2920,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"84cdd8bb475d0ae9",
+			"styleAttributes":{},
+			"text":"**File Status:** Updated",
+			"type":"text",
+			"x":-340,
+			"y":2740,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"9ed04c573bfa5ce7",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"3",
+			"type":"text",
+			"x":0,
+			"y":3180,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"bf30ddbd8857009e",
+			"styleAttributes":{},
+			"text":"**File Status:** Revision Upload",
+			"type":"text",
+			"x":160,
+			"y":3020,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b67bcdb46b9d16b8",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"1",
+			"type":"text",
+			"x":-740,
+			"y":3060,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"2202132fc063c50d",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"3",
+			"type":"text",
+			"x":-740,
+			"y":3210,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"cecb1ea76e7fa34a",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"2",
+			"type":"text",
+			"x":580,
+			"y":3150,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"21eecd35df3f0784",
+			"styleAttributes":{},
+			"text":"**File Status:** Approved FBP",
+			"type":"text",
+			"x":240,
+			"y":3240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fbe527d081773000",
+			"styleAttributes":{},
+			"text":"#### Print Label\n\n**List of Variant Label**\n1. Expert Label\n2. HOD Label\n3. Exam Label\n4. Miscellaneous\n5. Teacher Paper Label\n6. Late Label \n   ***(Exam Label from Late Printing Request)***",
+			"type":"text",
+			"x":4820,
+			"y":1725,
+			"width":340,
+			"height":340
+		},
+		{
+			"file":"BBS Notes/SVE Journey/ExpertLabel.png",
+			"id":"947841ab509557b4",
+			"styleAttributes":{},
+			"type":"file",
+			"x":5220,
+			"y":1725,
+			"width":400,
+			"height":181
+		},
+		{
+			"id":"065c9e7acce28ed6",
+			"styleAttributes":{},
+			"text":"Set Print Number, Add Flag as LATE",
+			"type":"text",
+			"x":3410,
+			"y":2520,
+			"width":260,
+			"height":80
+		},
+		{
+			"file":"BBS Notes/SVE Journey/HODLabel.png",
+			"id":"b59bb439a56a1ff4",
+			"styleAttributes":{},
+			"type":"file",
+			"x":5220,
+			"y":1965,
+			"width":399,
+			"height":177
+		},
+		{
+			"file":"BBS Notes/SVE Journey/ExamLabel.png",
+			"id":"da54aa4935c22fd4",
+			"styleAttributes":{},
+			"type":"file",
+			"x":5660,
+			"y":1725,
+			"width":400,
+			"height":177
+		},
+		{
+			"id":"10e7dba972ff680b",
+			"styleAttributes":{},
+			"text":"List of Other File on all SVE Exam Type",
+			"type":"text",
+			"x":2100,
+			"y":1660,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"62afa791b96f486d",
+			"styleAttributes":{"shape":"parallelogram"},
+			"text":"Check Printing Request Deadline",
+			"type":"text",
+			"x":2620,
+			"y":2170,
+			"width":200,
+			"height":85
+		},
+		{
+			"id":"11ad0ba7b3003ba1",
+			"styleAttributes":{"shape":"pill"},
+			"text":"Set Late Printing",
+			"type":"text",
+			"x":3020,
+			"y":2390,
+			"width":230,
+			"height":60
+		},
+		{
+			"id":"5be48100b85e5648",
+			"styleAttributes":{"shape":"pill"},
+			"text":"Principals Set Printing Request",
+			"type":"text",
+			"x":3020,
+			"y":1955,
+			"width":230,
+			"height":70
+		},
+		{
+			"id":"963d9a60639c0d4c",
+			"styleAttributes":{},
+			"text":"**Set Print Number:**\n1. Question Paper\n2. Extra\n3. MCQ Sheet (IF Exist)\n4. MF19 a.k.a List of Formulae (IF Exist)",
+			"type":"text",
+			"x":3380,
+			"y":1740,
+			"width":320,
+			"height":220
+		},
+		{
+			"id":"562e0ec0e4250bb9",
+			"styleAttributes":{"shape":"pill"},
+			"text":"System Calculatin Printing Detail for all Branch",
+			"type":"text",
+			"x":3410,
+			"y":2080,
+			"width":260,
+			"height":80
+		},
+		{
+			"file":"BBS Notes/SVE Journey/TeacherPaper.png",
+			"id":"a17cbb46772761b0",
+			"styleAttributes":{},
+			"type":"file",
+			"x":5220,
+			"y":2195,
+			"width":400,
+			"height":180
+		},
+		{
+			"id":"e7f9affc11e1ae7d",
+			"styleAttributes":{},
+			"text":"Templatenya disamain aja, ada **Expert** nya",
+			"type":"text",
+			"x":5260,
+			"y":2515,
+			"width":260,
+			"height":80
+		},
+		{
+			"file":"BBS Notes/SVE Journey/Misc.png",
+			"id":"362c17eb725447db",
+			"styleAttributes":{},
+			"type":"file",
+			"x":5660,
+			"y":1965,
+			"width":783,
+			"height":177
+		},
+		{
+			"id":"dd6e3c95d2688ce4",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":null
+			},
+			"text":"**Save File History on Every Change Status**",
+			"type":"text",
+			"x":800,
+			"y":2910,
+			"width":220,
+			"height":80
+		},
+		{
+			"id":"a7c232f25df049c8",
+			"styleAttributes":{},
+			"text":"**On System File:**\n1. Disclosure\n2. Other File",
+			"type":"text",
+			"x":1560,
+			"y":2000,
+			"width":360,
+			"height":120
+		},
+		{
+			"id":"9fc1ba5168083416",
+			"styleAttributes":{},
+			"text":"**Admin User:**\nPaper Type File Monitoring, to see all file number of file upload & number off status",
+			"type":"text",
+			"x":1550,
+			"y":3340,
+			"width":380,
+			"height":100
+		},
+		{
+			"id":"a135147601fcb331",
+			"styleAttributes":{},
+			"text":"**Admin User:**\nList of Audio file on all SVE, Pair with Answer Sheet, **If exist**",
+			"type":"text",
+			"x":2580,
+			"y":2880,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"70833a8ec17c8787",
+			"styleAttributes":{},
+			"text":"**Teacher User:**\nGet spesific audio file based on subject teacher access.\n\n**Notes:** \n1. **Audio File:** Show File on H - 7 Exam Time Table.\n2. **Blank State Not on Range Date:** Show information, \"Audio will show on {date}, for exam date on {exam_date}\".\n3. **Marking Scheme:** Show File on 1 second after Exam Time Table Time + Duration.",
+			"type":"text",
+			"x":2580,
+			"y":3020,
+			"width":380,
+			"height":380
+		},
+		{
+			"id":"0a872dec2d38d8e3",
+			"styleAttributes":{},
+			"text":"**Eratum File**\n1. Eratum File Upload Active when H - 7 Exam Date.\n2. Send Email to {**TBC**} after upload Eratum File.\n",
+			"type":"text",
+			"x":2540,
+			"y":3560,
+			"width":260,
+			"height":240
+		},
+		{
+			"id":"f03c0c664b47eb08",
+			"styleAttributes":{"shape":"pill"},
+			"text":"Calculating Printing Detail for Flag LATE",
+			"type":"text",
+			"x":3410,
+			"y":2320,
+			"width":260,
+			"height":80
+		},
+		{
+			"file":"BBS Notes/PrintingDetail.pdf",
+			"id":"6e9789139cdc335b",
+			"styleAttributes":{},
+			"type":"file",
+			"x":3820,
+			"y":1920,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"74bd7aa0e3dfc06b",
+			"styleAttributes":{},
+			"text":"**Exam Print:**\n1. Exam Paper\n\t1. Question Paper + **Cover Page**\n\t2. Insert + **Insert Cover Page**\n2. Marking Scheme + TOS\n3. Answer Sheet\n4. Teacher Paper\n5. MCQ\n6. MF19",
+			"type":"text",
+			"x":1560,
+			"y":2200,
+			"width":360,
+			"height":320
+		},
+		{
+			"id":"fbb8ec9077ab1760",
+			"styleAttributes":{},
+			"text":"**Exam File:**\n1. Audio File\n2. Marking Scheme",
+			"type":"text",
+			"x":1560,
+			"y":2600,
+			"width":360,
+			"height":120
+		},
+		{
+			"id":"0d2db3b3aa8bf9fc",
+			"styleAttributes":{},
+			"text":"**Eratum File:**\n1. Question Paper\n2. Marking Scheme\n3. Answer Sheet (IF Exsist)",
+			"type":"text",
+			"x":1560,
+			"y":2800,
+			"width":360,
+			"height":180
+		}
+	]
 }
