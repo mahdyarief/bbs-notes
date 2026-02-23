@@ -53,7 +53,7 @@ AS PUM
 	3. Grade B : Case: (((57 - 54) / (TH A - TH B)) * 10) + 70 
 	4. Grade C : Case: (((AS AVG - TH C) / (TH B - TH C)) * 10) + 60 
 	5. __ sampe E → + 40
-	6. Grade U: Case: (((AS AVG - 0) / (TH E - 0)) * 39) 
+	6. Grade U: Case: (((AS AVG - 0) / (TH E - 0)) + 39) 
 	7. Hasil akhir di bulatkan
 
 AS Predicted
@@ -76,7 +76,7 @@ Secondary no FTP
 
 Objective Report Secondary:
 Term 1 → End of April
-AS Prelim → End February
+AS Prelim → End February (Kita masih yg Ini)
 GPA Report November → End of March
 Semester 1
 Term 3
@@ -100,6 +100,7 @@ Paper 4 A2
 
 
 NewBBS2026!
+NewBBS2025!
 
 ![](https://i.imgur.com/RzEjz6S.png)
 ![](https://i.imgur.com/bUFvhxg.png)
