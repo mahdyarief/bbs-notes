@@ -55,6 +55,23 @@ AS PUM
 	5. __ sampe E → + 40
 	6. Grade U: Case: (((AS AVG - 0) / (TH E - 0)) + 39) 
 	7. Hasil akhir di bulatkan
+2. Grade A* - G
+   A*: (((68 - 62) / (100 - Treshholdnya )) * 20) + 90
+   A: (((68 - 62) / (100 - Treshholdnya )) * 20) + 80
+   B: (((57 - 54) / (TH A - TH B)) * 10) + 70
+   C: (((AS AVG - TH C) / (TH B - TH C)) * 10) + 60
+   D: (((AS AVG - TH D) / (TH C - TH D)) * 10) + 50
+   E: (((AS AVG - TH D) / (TH D - TH E)) * 10) + 40
+   F: (((AS AVG - TH D) / (TH E - TH F)) * 10) + 30
+   G: (((AS AVG - TH D) / (TH F - TH G)) * 10) + 20
+   U: ((AS AVG - 0) / (TH G - 0)) + 19
+3.  Grade A - E
+   A: (((68 - 62) / (100 - Treshholdnya )) * 20) + 80
+   B: (((57 - 54) / (TH A - TH B)) * 10) + 70
+   C: (((AS AVG - TH C) / (TH B - TH C)) * 10) + 60
+   D: (((AS AVG - TH D) / (TH C - TH D)) * 10) + 50
+   E: (((AS AVG - TH D) / (TH D - TH E)) * 10) + 40
+   U: ((AS AVG - 0) / (TH E - 0)) + 39
 
 AS Predicted
 ![](https://i.imgur.com/SyWBImV.png)
