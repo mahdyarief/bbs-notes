@@ -157,3 +157,18 @@ Maks Subject 6 Subject → AS
 10 Subject → IGCSE
 
 A4 Paper
+
+
+Goals, hanya tampilin 3 teratas aja, sisanya show all, atau pake pagination
+
+Formulasi penilaian -1
+
+IGCSE → April
+A Level → April
+AS → September
+
+Hapus component di SVE Component yg salah input
+![](https://i.imgur.com/Nxo3RbW.png)
+
+Penamaan Nama Papernya, dari Paper ter kecil
+![](https://i.imgur.com/RJdgYKT.png)
