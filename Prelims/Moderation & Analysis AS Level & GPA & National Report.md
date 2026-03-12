@@ -61,3 +61,42 @@ Side quest → Mulai grading Secondary, DCA Breakdown
 ![](https://i.imgur.com/VvMcZxI.png)
 
 DI AS kalkulasi nilai -1 gimana?
+
+![](https://i.imgur.com/r1GBnFF.png)
+
+
+GPA
+![](https://i.imgur.com/6Mk13lC.png)
+
+### Report National
+![](https://i.imgur.com/14dzFTl.png)
+
+JC2 → Report term 2 → Report National Sem 1 (SA1) Sem 2 (SA2)
+X XI XII → ambil array 3 tahun terakhir, 
+![](https://i.imgur.com/6KkjFCL.png)
+
+NAS Ranking → 1 Kampus semua Kelas → Ambil dari rata2
+![](https://i.imgur.com/RTsIe0G.png)
+
+
+GPA Transcript (Selalu 3 tahun Terakhir) ada 2, December & June
+Nilai riwayat Anak
+December, Level di JC2 → dari AS PUM & SA1 (Nilai tertinggi), (Non Academic Pake SA1), kalo ada SEC 4, Bandingin FYA & IGCSE PUM
+Selain JC2 → Pake FYA
+
+June, Level di JC2 → dari A PUM & FYA (Nilai tertinggi)
+
+
+Final Mark → nilai tertinggi dari (Selain Sec 4 & JC2 → FYA)
+Sec 4 & JC2 → 
+Unit ada dbnya
+![](https://i.imgur.com/8mEzJ8X.png)
+
+![](https://i.imgur.com/viBXrlB.png)
+![](https://i.imgur.com/M777TNU.png)
+
+Final Mark → GP Value → Formula GP Value x Unit
+
+Unit disimpen per AY, 
+
+CCA di Avg, Ada Range CCA General → 
