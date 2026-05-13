@@ -1,0 +1,339 @@
+{
+  "edges": [
+    {
+      "fromNode": "430220a5b5c7966a",
+      "fromSide": "bottom",
+      "id": "9008c4fe4de3df6e",
+      "styleAttributes": {
+      },
+      "toNode": "cd73f42bde3c10e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "430220a5b5c7966a",
+      "fromSide": "bottom",
+      "id": "bf508e43387df375",
+      "styleAttributes": {
+      },
+      "toNode": "1887bbf49e47c670",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "430220a5b5c7966a",
+      "fromSide": "bottom",
+      "id": "b413988997ca5712",
+      "styleAttributes": {
+      },
+      "toNode": "dbb11963edf938ad",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "98381cb91333f93d",
+      "fromSide": "bottom",
+      "id": "8ee910f374bcdcc3",
+      "styleAttributes": {
+      },
+      "toNode": "430220a5b5c7966a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bd96cb49e30b030",
+      "fromSide": "bottom",
+      "id": "a8d020b5676ff280",
+      "styleAttributes": {
+      },
+      "toNode": "1b93826bd429293a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bd96cb49e30b030",
+      "fromSide": "bottom",
+      "id": "f8da50ebec3ff950",
+      "styleAttributes": {
+      },
+      "toNode": "98381cb91333f93d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3711c772986db4f9",
+      "fromSide": "bottom",
+      "id": "bb6db77b25bde9a6",
+      "styleAttributes": {
+      },
+      "toNode": "ad95c0a35932955e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3711c772986db4f9",
+      "fromSide": "bottom",
+      "id": "7b069bac05af06f5",
+      "styleAttributes": {
+      },
+      "toNode": "4f0cc6afb430be3b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1b93826bd429293a",
+      "fromSide": "bottom",
+      "id": "76d0cfbf6f646f77",
+      "styleAttributes": {
+      },
+      "toNode": "3711c772986db4f9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4f0cc6afb430be3b",
+      "fromSide": "bottom",
+      "id": "db27bc1de52d8fe4",
+      "styleAttributes": {
+      },
+      "toNode": "32cc6c505d8a564e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f0cc6afb430be3b",
+      "fromSide": "bottom",
+      "id": "8556488a5438c530",
+      "styleAttributes": {
+      },
+      "toNode": "efdb6b9121671038",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f0cc6afb430be3b",
+      "fromSide": "bottom",
+      "id": "c3f8c0e8abb002d4",
+      "styleAttributes": {
+      },
+      "toNode": "770a6b722adf85a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad95c0a35932955e",
+      "fromSide": "bottom",
+      "id": "f3ad53a2e557ac97",
+      "styleAttributes": {
+      },
+      "toNode": "a958aa1212e18266",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad95c0a35932955e",
+      "fromSide": "bottom",
+      "id": "09a20093d89ac9ce",
+      "styleAttributes": {
+      },
+      "toNode": "910cd631b9254be2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3711c772986db4f9",
+      "fromSide": "bottom",
+      "id": "6f2c0e0cf492701a",
+      "styleAttributes": {
+      },
+      "toNode": "c90af41d975d432d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c90af41d975d432d",
+      "fromSide": "bottom",
+      "id": "85fd77c20d164243",
+      "styleAttributes": {
+      },
+      "toNode": "a143c8f9d0e8ecba",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 60,
+      "id": "98381cb91333f93d",
+      "styleAttributes": {
+      },
+      "text": "IGCSE (Sec4)",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": -460
+    },
+    {
+      "height": 60,
+      "id": "9bd96cb49e30b030",
+      "styleAttributes": {
+      },
+      "text": "Exam Prelims",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -760
+    },
+    {
+      "height": 60,
+      "id": "cd73f42bde3c10e3",
+      "styleAttributes": {
+      },
+      "text": "Paper 1",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "1887bbf49e47c670",
+      "styleAttributes": {
+      },
+      "text": "Paper 2",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "dbb11963edf938ad",
+      "styleAttributes": {
+      },
+      "text": "Paper 3",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 260
+    },
+    {
+      "height": 60,
+      "id": "430220a5b5c7966a",
+      "styleAttributes": {
+      },
+      "text": "Accounting (Sec 4)",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "ad95c0a35932955e",
+      "styleAttributes": {
+      },
+      "text": "AS Level",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "a958aa1212e18266",
+      "styleAttributes": {
+      },
+      "text": "Paper 1",
+      "type": "text",
+      "width": 260,
+      "x": -1170,
+      "y": 290
+    },
+    {
+      "height": 60,
+      "id": "910cd631b9254be2",
+      "styleAttributes": {
+      },
+      "text": "Paper 2",
+      "type": "text",
+      "width": 260,
+      "x": -1170,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "1b93826bd429293a",
+      "styleAttributes": {
+      },
+      "text": "A Level (JC2)",
+      "type": "text",
+      "width": 260,
+      "x": -1040,
+      "y": -460
+    },
+    {
+      "height": 60,
+      "id": "3711c772986db4f9",
+      "styleAttributes": {
+      },
+      "text": "Accounting (JC2)",
+      "type": "text",
+      "width": 260,
+      "x": -1040,
+      "y": -250
+    },
+    {
+      "height": 60,
+      "id": "4f0cc6afb430be3b",
+      "styleAttributes": {
+      },
+      "text": "A2 Level",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "32cc6c505d8a564e",
+      "styleAttributes": {
+      },
+      "text": "Paper 3",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 260
+    },
+    {
+      "height": 60,
+      "id": "efdb6b9121671038",
+      "styleAttributes": {
+      },
+      "text": "Paper 4",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "770a6b722adf85a8",
+      "styleAttributes": {
+      },
+      "text": "Paper 5",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "c90af41d975d432d",
+      "styleAttributes": {
+      },
+      "text": "A Level",
+      "type": "text",
+      "width": 260,
+      "x": -1880,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "a143c8f9d0e8ecba",
+      "styleAttributes": {
+      },
+      "text": "Paper 1",
+      "type": "text",
+      "width": 260,
+      "x": -1880,
+      "y": 290
+    }
+  ]
+}
